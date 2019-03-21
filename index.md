@@ -73,7 +73,7 @@ For the <strong>intermediate representation</strong>, we show a visualization of
 {% endfor %}
 
 <br><br><br>
-For the <strong>concrete-code representation</strong>, we show the code where the function and variable names (e.g., `what\_is\_ my\_bonus`, `years\_of\_service`) closely maps to the comic and visualization.  At this stage, learners are asked to work with code without the support of the more concrete representations.  
+For the <strong>concrete-code representation</strong>, we show the code where the function and variable names (e.g., `what\_is\_ my\_bonus`, `years\_of\_service`) closely maps to the comic and visualization.  At this stage, learners are asked to work with code without the support of the more concrete representations in the previous stages.  
 {% for image in image_files %}
 {% if image.basename == "concrete-code" %}
 <div class='img-wrapper'><img src="{{image.path}}"></div>
@@ -89,7 +89,7 @@ For the <strong>abstract-code representation</strong>, the interface presents co
 {% endfor %}
 
 <br><br><br>
-Our findings show that <strong>CodingStrip</strong> can help learners understand programming constructs by leveraging multiple representations, and foster self-efficacy in novice learners.  Results also suggest that how users respond to concreteness fading can vary depending on their learning style.
+Our findings show that <strong>CodingStrip</strong> can help learners understand programming constructs by leveraging multiple representations, and foster self-efficacy in novice learners.  Results also suggest that how users respond to concreteness fading can vary depending on their learning style preferences.
 
 
 
