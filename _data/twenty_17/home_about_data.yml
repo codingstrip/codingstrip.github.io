@@ -7,17 +7,24 @@
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
-  info: Check out the agenda
+  info: Check out the workshop schedule
   link: /agenda
-  
+
 - inverted: 
+  img: booklet-icon.png
+  name: comics
+  info: Discover comics that teach computing concepts
+  link: /comics
+  
+- inverted: timeline-inverted
   img: icon-team.jpeg
   name: People
   info: Find out the people behind CodingStrip
   link: /team
 
-- inverted: timeline-inverted
+- inverted: 
   img: icon-faq.jpeg
   name: FAQs
   info: Have a Question? Many answers can be found right here in our FAQs
   link: /faqs
+
