@@ -1,7 +1,7 @@
 - inverted: 
   img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
+  name: CodingStrip
+  info: Read more about CodingStrip
   link: /about
 
 - inverted: timeline-inverted
@@ -9,27 +9,15 @@
   name: Agenda
   info: Check out the agenda
   link: /agenda
-
+  
 - inverted: 
   img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
+  name: People
+  info: Find out the people behind CodingStrip
   link: /team
 
 - inverted: timeline-inverted
-  img: icon-venue.jpeg
-  name: Venue
-  info: Learn more about our location
-  link: /venue
-
-- inverted: 
   img: icon-faq.jpeg
   name: FAQs
   info: Have a Question? Many answers can be found right here in our FAQs
   link: /faqs
-
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet
