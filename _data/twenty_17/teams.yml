@@ -1,26 +1,35 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: Edith Law
+  name: Edith
+  subtitle: Principal Researcher
+  img: icons8-christmas_girl.png
+  thumbnail: icons8-christmas_girl.png
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  description: Edith is an Assistant Professor in Computer Science at the University of Waterloo. She is a mother of three children and raises them with insatiable curiosity.
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: Sangho Suh
+  name: Sangho
+  subtitle: Researcher
+  img: icons8-christmas_penguin.png
+  thumbnail: icons8-christmas_penguin.png
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  description: Sangho is a PhD Student in Computer Science at the University of Waterloo. While working as a teacher in South Korea, he realized that he had passion for helping people understand & learn things more effectively.
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: Gracie Xia 
+  name: Gracie
+  subtitle: Designer & Researcher
+  img: icons8-teddy_bear.png
+  thumbnail: icons8-teddy_bear.png
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  description: Gracie is an undergraduate student studying Software Engineering at the University of Waterloo. She is also a heck of an artist.
+
+- title: Martinet Lee
+  name: Martinet
+  subtitle: Researcher
+  img: icons8-frankensteins_monster.png
+  thumbnail: icons8-frankensteins_monster.png
+  alt: Picture of TBD
+  topic: Topic
+  description: Martinet is a Masters Student in Computer Science at the University of Waterloo. He has always been a teacher ever since he can remember. He brings years of teaching experience to the group.
