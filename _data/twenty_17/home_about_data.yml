@@ -1,7 +1,7 @@
 - inverted: 
   img: icon-about.jpeg
-  name: CodingStrip
-  info: Read more about CodingStrip
+  name: Coding Strip
+  info: Learn more about Coding Strip
   link: /about
 
 - inverted: timeline-inverted
@@ -12,8 +12,8 @@
 
 - inverted: 
   img: booklet-icon.png
-  name: comics
-  info: Discover comics that teach computing concepts
+  name: Teaching Resources
+  info: Use coding strips to teach computing concepts
   link: /comics
   
 - inverted: timeline-inverted
