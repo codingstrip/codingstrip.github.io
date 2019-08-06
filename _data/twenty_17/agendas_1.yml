@@ -1,8 +1,18 @@
 - time: 9:00 AM - 10:30 PM
+<<<<<<< HEAD
   info: "<u>Designing CodingStrip: Constructs </u><br><b>Sangho Suh</b><br><i>PhD Student in CS</i><br><br>During this session, we will learn how to design comics for programming constructs. The design activities will be conducted in groups."
+=======
+  info: "<u>Designing Coding Strip: Programming Constructs & Data Structures</u><br><br>During this session, we will learn how to design comics for programming constructs & data structures. The design activities will be conducted in groups, and we will have critique session with each group's coding strip."
+  # info: "<u>Designing CodingStrip: Constructs & Data Structures</u><br><b>Sangho Suh</b><br><i>PhD Student in CS</i><br><br>During this session, we will learn how to design comics for programming constructs & data structures. The design activities will be conducted in groups, and we will have critique session with each group's coding strip."
+>>>>>>> 73c14b22f05c22aaebb7b6441005c3265a046548
 
 - time: 10:30 AM - 10:45 AM
   info: "Break"  
 
 - time: 10:45 AM - 12:15 PM
+<<<<<<< HEAD
   info: "<u>Designing CodingStrip: Constructs & Problem Solving Approaches </u><br><b>Sangho Suh</b><br><i>PhD Student in CS</i><br><br>During this session, we will learn how to design comics for constructs & problem solving approaches. The design activities will be conducted in groups, followed by discussion session."
+=======
+  info: "<u>Designing Coding Strip: Algorithms</u><br><br>During this session, we will learn how to design comics for algorithms & problem solving approaches. The design activities will be conducted in groups, and we will have critique session with each group's coding strip."
+  # info: "<u>Designing CodingStrip: Algorithms</u><br><b>Sangho Suh</b><br><i>PhD Student in CS</i><br><br>During this session, we will learn how to design comics for algorithms & problem solving approaches. The design activities will be conducted in groups, and we will have critique session with each group's coding strip."
+>>>>>>> 73c14b22f05c22aaebb7b6441005c3265a046548

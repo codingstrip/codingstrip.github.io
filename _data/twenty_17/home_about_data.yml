@@ -1,23 +1,30 @@
 - inverted: 
   img: icon-about.jpeg
-  name: CodingStrip
-  info: Read more about CodingStrip
+  name: Coding Strip
+  info: Learn more about Coding Strip
   link: /about
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
-  info: Check out the agenda
+  info: Check out the workshop schedule
   link: /agenda
-  
+
 - inverted: 
+  img: booklet-icon.png
+  name: Teaching Resources
+  info: Use coding strips to teach computing concepts
+  link: /comics
+  
+- inverted: timeline-inverted
   img: icon-team.jpeg
   name: People
-  info: Find out the people behind CodingStrip
+  info: Find out the people behind Coding Strip
   link: /team
 
-- inverted: timeline-inverted
+- inverted: 
   img: icon-faq.jpeg
   name: FAQs
   info: Have a Question? Many answers can be found right here in our FAQs
   link: /faqs
+

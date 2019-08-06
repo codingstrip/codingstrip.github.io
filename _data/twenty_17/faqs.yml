@@ -1,5 +1,17 @@
 - question: Is this workshop for research?
-  answer: Yes, it is! So we will need your consent to participate in the study. Please note that our session will be video recorded. However, you are also free to participate in our workshop without participating in the research. This means, we will not be reporting your data.
+  answer: Yes, it is! So we will need your consent to participate in the study. Please note that our session will be video recorded. However, you are also free to participate in our workshop without participating in the research. This means, while your responses and activity will be inevitably video recorded, your data will not be included in our analysis for report.
 
 - question: Do I need to know all the algorithms?
   answer: No, you do not. As long as you have some experience with programming, the workshop is open to anyone. You will also work in groups, so you may find more knowledgeable team members who can assist you. Also, you can look up the concepts from the Internet, if needed.
+
+- question: What data are collected for research?
+  answer: Please note that your decision to participate in the study does not obligate you to answer all questions. So you can refuse to answer any question that you feel uncomfortable. Having said that, we will be asking for your basic information (i.e., demographic, teaching experience) and experience with the workshop. Also, we will be video recording the session for accurate transcription and analysis. 
+
+- question: Do I need to know how to draw to participate in this session?
+  answer: Not at all. We will provide design patterns and artifacts to facilitate the design process. Also, a few artists will be available to assist with sketching. 
+
+- question: Can I attend only one of the two sessions?
+  answer: We would strongly advise you to be present for both sessions. We cannot guarantee that you would have a good experience if you miss either session.
+
+# - question: Where 
+  # answer: This study is conducted by This study has been reviewed and received ethics clearance through a University of Waterloo Research Ethics Committee (ORE# 31922). If you have questions for the Committee, contact the Office of Research Ethics, at 1-519-888-4567 ext. 36005 or ohrac@uwaterloo.ca.
