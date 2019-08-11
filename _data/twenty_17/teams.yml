@@ -10,20 +10,20 @@
 - title: Sangho Suh
   name: Sangho
   subtitle: Researcher
-  img: icons8-christmas_penguin.png
-  thumbnail: icons8-christmas_penguin.png
+  img: icons8-vampire.png
+  thumbnail: icons8-vampire.png
   alt: Picture of TBD
   topic: Topic
-  description: Sangho is a PhD Student in Computer Science at the University of Waterloo. He is fascinated by the potential of computer technologies to make learning more engaging and interactive.
+  description: Sangho is a PhD Student in Computer Science at the University of Waterloo. He is fascinated by the potential of computer technologies to make learning more fun and accessible.
 
 - title: Gracie Xia 
   name: Gracie
-  subtitle: Designer & Researcher
+  subtitle: Artist & Researcher
   img: icons8-teddy_bear.png
   thumbnail: icons8-teddy_bear.png
   alt: Picture of TBD
   topic: Topic
-  description: Gracie is an undergraduate student studying Software Engineering at the University of Waterloo. She is also a heck of an artist.
+  description: Gracie is an undergraduate student studying Software Engineering at the University of Waterloo. She loves traveling and is also a heck of an artist.
 
 - title: Martinet Lee
   name: Martinet
@@ -33,3 +33,12 @@
   alt: Picture of TBD
   topic: Topic
   description: Martinet is a Masters Student in Computer Science at the University of Waterloo. He has been a teacher ever since he could remember. He brings years of teaching experience to the group.
+
+- title: Bernadette Cheng
+  name: Bernadette
+  subtitle: Artist
+  img: icons8-christmas_penguin.png
+  thumbnail: icons8-christmas_penguin.png.png
+  alt: Picture of TBD
+  topic: Topic
+  description: Bernadette is an undergraduate student studying Systems Design Engineering at the University of Waterloo. She draws amazing comic strips for us. 
