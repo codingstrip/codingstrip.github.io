@@ -1490,6 +1490,12 @@ a:hover {
   #design-process > p {
     font-size: 1.3em;
   }
+  .description-section > ul > li {
+    font-size: 1.3em;
+  }
+  .description-section > h1 {
+    font-size: 2em !important;
+  }
   .design-process-container > p {
     padding: 0px;
     font-size: 1.3em;
@@ -1561,6 +1567,9 @@ a:hover {
   .divider {
     font-size: 1.7em !important;
   }
+  .description-section > h1 {
+    font-size: 1.7em !important;
+  }  
   .row {
     flex-direction: row !important;
   }
