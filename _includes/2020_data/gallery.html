@@ -5,7 +5,7 @@
 			<div><i>Coding strip</i> is a form of comic strip accompanied by its corresponding code. It presents programming concepts in both concrete and abstract contexts/representations to support the teaching and learning of programming concepts. This site shares information and resource related to <i>coding strip</i>. We provide a list of examples as well as its design process and tools. To learn about its research, see <a href="/publications">publications</a>.
 			</div>	
 			<figure>
-				<img src='../images/6_paper/vlhcc-abstraction_ladder.png' alt="">
+				<img src='../images/6_paper/vlhcc-abstraction_ladder-min.png' alt="">
 			</figure>
 		</section>
 	</section>
@@ -17,7 +17,7 @@
 		{% if mod == 1 %}<section class="row">{% endif %}
 			<article class="coding-strip">
 				<figure class="image">
-					<img src="{{ strip.path | prepend: site.baseurl }}" width="{{ strip.width }}" height="{{ strip.height }}" alt="{{ strip.alt }}">
+					<img src="{{ strip.path_compressed | prepend: site.baseurl }}" width="{{ strip.width }}" height="{{ strip.height }}" alt="{{ strip.alt }}">
 				</figure>
 				<div class="strip-title">
 					<h2 class="coding-strip-title">{{ strip.title }}</h2>

@@ -1,5 +1,6 @@
 - link: 'https://sanghosuh.github.io/papers/codingstrip_vlhcc.pdf'
   path: '../images/6_paper/vlhcc-coding_strip.png'
+  path_compressed: '../images/6_paper/vlhcc-coding_strip-min.png'
   alt: 
   description: 
   width: 
@@ -15,6 +16,7 @@
 
 - link: 'https://sanghosuh.github.io/papers/abstraction_vlhcc.pdf'
   path: '../images/6_paper/vlhcc-abstraction_ladder.png'
+  path_compressed: '../images/6_paper/vlhcc-abstraction_ladder-min-min.png'
   alt: 
   description: 
   width: 
@@ -27,6 +29,7 @@
 
 - link: 'https://sanghosuh.github.io/papers/concreteness_icer.pdf'
   path: '../images/6_paper/icer-concreteness_fading.png'
+  path_compressed: '../images/6_paper/icer-concreteness_fading-min.png'
   alt: 
   description: 
   width: 
