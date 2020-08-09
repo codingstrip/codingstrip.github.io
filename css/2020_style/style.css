@@ -1003,7 +1003,11 @@ article, figure {
     flex-direction: column;
     align-items: center;
     max-width: 1200px;
-    /*padding: 30px;*/
+    padding: 30px;
+}
+
+#design-process > p {
+    font-size: 1.6em;
 }
 
 .design-process-container {
@@ -1371,7 +1375,6 @@ a:hover {
     display: flex;
     flex-direction: column;
     max-width: 1200px;
-    margin-top: 50px;
 }
 
 .description-section > p {
@@ -1379,7 +1382,7 @@ a:hover {
 }
 
 .description-section > h1 {
-    font-size: 2.4em;
+    font-size: 3em;
     text-align: center;
     margin-bottom: 35px;
 }
@@ -1390,6 +1393,11 @@ a:hover {
 
 .description-section > h1 {
     width: 100%;
+}
+
+#main-page {
+    /*margin-top: 50px;*/
+    padding: 30px;
 }
 
 #main-description {
@@ -1477,6 +1485,12 @@ a:hover {
   .divider {
     font-size: 2em !important;
   }  
+  .description-section > p {
+    font-size: 1.3em;
+  }
+  #design-process > p {
+    font-size: 1.3em;
+  }
   .design-process-container > p {
     padding: 0px;
     font-size: 1.3em;
@@ -1541,7 +1555,6 @@ a:hover {
   }
   .description-section {
     padding: 0px;
-    margin-top:200px;
   }
   .description-section > p {
     font-size: 1.3em;
