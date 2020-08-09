@@ -1595,6 +1595,7 @@ a:hover {
     padding-right: 10px;
     margin-bottom: 50px;
     font-size:1.4em;
+    order: 2;
   }
   #coding-strip-info > img {
     justify-content: center;
@@ -1602,6 +1603,7 @@ a:hover {
     margin-bottom: 50px;
     padding: 0;
     width: 70%;
+    order: 1;
   }
   #ideation-cards {
     flex-direction: row;
