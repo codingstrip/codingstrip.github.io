@@ -285,7 +285,8 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:focus {
     /*outline: 0;*/
     /*color: #{{ site.data.template.color.primary }};*/
-    border-bottom: 8px solid #ffcb62;
+    /*border-bottom: 8px solid #ffcb62;*/
+    color: rgba(113, 111, 111, 0.7);;
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -326,7 +327,7 @@ fieldset[disabled] .btn-xl.active {
         padding: 10px 0;
         /*background-color: #222;*/
         /*background-color: #007961;*/
-        box-shadow: 4px 10px rgba(255, 203, 98, 0.4);
+        /*box-shadow: 4px 10px rgba(255, 203, 98, 0.4);*/
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -1533,4 +1534,12 @@ a:hover {
     width:80%;
     align-self:center;
   }
+}
+
+.page-scroll.active {
+    border-bottom: 8px solid #ffcb62;
+}
+
+.nav li a {
+    padding-bottom:10px;
 }

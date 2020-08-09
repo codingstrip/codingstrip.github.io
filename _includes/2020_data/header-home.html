@@ -12,6 +12,7 @@
                 <!-- <a class="navbar-brand page-scroll" href="/"><img src="../css/2017_style/img/logo-small-transparent.png" style="margin-top:-15px" width="150px" alt="icon-about"></a> -->
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
+            <!-- {{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }} -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-left"><li class="nav-brand"><a href="/">Coding Strip</a></li></ul>
                 <ul class="nav navbar-nav navbar-right">
@@ -19,10 +20,10 @@
                         <a href="/"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="/">Gallery</a>
+                        <a id="gallery-tab" class="page-scroll active" href="/">Gallery</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="/design-process">Design Process & Tools</a>
+                        <a id="design-process-tab" class="page-scroll" href="/design-process">Design Process & Tools</a>
                     </li>
                     <!-- <li>
                         <a class="page-scroll" href="/ideation-cards">Ideation Cards</a>
@@ -31,7 +32,7 @@
                         <a class="page-scroll" href="/design-workshop">Design Workshop</a>
                     </li>                     -->
                     <li>
-                        <a class="page-scroll" href="/publications">Publications</a>
+                        <a id="publications-tab" class="page-scroll" href="/publications">Publications</a>
                     </li>                    
                 </ul>
             </div>
