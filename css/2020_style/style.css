@@ -935,7 +935,14 @@ main {
 #gallery {
     display: flex;
     flex-direction: column;
-    margin: auto !important;
+    max-width: 1200px;
+    justify-content: center;
+    align-items: center;
+}
+
+#design-process-page {
+    display: flex;
+    flex-direction: column;
     max-width: 1200px;
     justify-content: center;
     align-items: center;
@@ -1026,7 +1033,6 @@ article, figure {
     align-items: center;
     max-width: 1200px;
     padding: 30px;
-    margin: auto;
 }
 
 #publications {
@@ -1035,7 +1041,6 @@ article, figure {
     align-items: center;
     max-width: 1200px;
     padding: 30px;
-    margin: auto;
 }
 
 .publication-row {
@@ -1341,7 +1346,6 @@ a:hover {
 #coding-strip-info {
     display: flex;
     flex-direction: row;
-    margin: auto !important;
     max-width: 1200px;
     justify-content: center;
     align-items: center;
@@ -1372,7 +1376,6 @@ a:hover {
     display: flex;
     flex-direction: column;
     max-width: 1200px;
-    margin: auto;
     margin-top: 50px;
     padding: 0px 30px;
 }
@@ -1451,6 +1454,7 @@ a:hover {
 @media screen and (max-width : 1040px){
   main {
     padding: 0 30px;
+    margin-top: 0px;
   }    
   .design-process-container {
     flex-direction: column !important;
@@ -1479,7 +1483,13 @@ a:hover {
   }
   .nav-brand {
     display: none !important;
-  }  
+  }
+  .publication-title {
+    font-size:1.7em;
+  }
+  figure > img {
+    min-height: 0px;
+  }
 }
 
 @media screen and (max-width : 768px){
@@ -1488,6 +1498,9 @@ a:hover {
   }    
   body {
       padding-bottom: 150px;
+  }
+  .divider {
+    font-size: 2em !important;
   }
   .row {
     flex-direction: row !important;
@@ -1529,6 +1542,11 @@ a:hover {
   .publication-row {
     flex-direction: column !important;
     justify-content: center;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .publication-row > div {
+    padding-left: 0;
   }
   .publication-image {
     width:80%;
