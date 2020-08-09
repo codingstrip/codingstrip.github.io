@@ -1051,10 +1051,6 @@ article, figure {
     /*border-bottom: 5px solid floralwhite;*/
 }
 
-.publication-row > figure {
-    flex: 1;
-}
-
 .publication-row > div {
     flex: 1.5;
     display: flex;
@@ -1062,8 +1058,10 @@ article, figure {
     padding-left:30px;
 }
 
-.publication-row > figure > img {
-    min-height:0;
+.publication-image {
+    flex: 1;
+    width: 50%;
+    height: 50%;
 }
 
 .publication-row > div > h1 {
@@ -1496,8 +1494,8 @@ a:hover {
     font-size: 1.3em;
   }
   #design-tools-container > img {
-    width:70%;
-    height:70%;
+    width: 70%;
+    height: 70%;
   }
   #coding-strip-info > div {
     font-size: 1.3em;
@@ -1511,6 +1509,17 @@ a:hover {
   }
   .publication-image {
     justify-content: center;
+    width: 70%;
+    height: 70%;
+    align-self: center;
+  }
+  .publication-title {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .publication-authors {
+    padding-left: 30px;
+    padding-right: 30px;
   }
   .nav-brand {
     display: none !important;
@@ -1587,7 +1596,8 @@ a:hover {
     padding-left: 0;
   }
   .publication-image {
-    width:80%;
+    width: 80%;
+    height: 80%;
     align-self:center;
   }
 }
