@@ -1472,7 +1472,6 @@ a:hover {
 @media screen and (max-width : 1040px){
   main {
     padding: 0 30px;
-    margin-top: 0px;
   }
   .design-process-container {
     flex-direction: column !important;
