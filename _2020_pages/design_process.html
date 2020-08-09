@@ -5,23 +5,19 @@ permalink: /design-process
 
 <!-- <div id="design-process-page"> -->
 	<section class="description-section">
-		<h1 class="divider">design process & tools</h1>
-		<p>Here, we present the design process & tools for designing coding strips, which we developed and tested at design workshops---the workshop website is <a href="/design-workshop" target="_blank">here</a>. Also, our <a href="/publications">paper</a> describes design workshops, process, and tools in more detail.</p>
+		<!-- <h1 class="divider">design process & tools</h1> -->
+		<p>Here, we present the design process & tools (i.e., design board + ideation cards) for designing coding strips, which we developed and tested at design workshops---the workshop website is <a href="/design-workshop" target="_blank">here</a>. Also, our <a href="/publications">paper</a> describes design workshops, process, and tools in more detail.</p>
 	</section>
 
 	<section id="design-process">
 		<h1 class="divider">design process</h1>
 		<div class="design-process-container">
-			<figure>
-				<img src="../images/7_design_tools/design-process-min.png" alt="">
-			</figure>
+			<img src="../images/7_design_tools/design-process-min.png" alt="">
 			<p>There are three stages in the design process, with trigger & scenario cards supporting transition from concept to story and design cards from story to coding strip.</p>
 		</div>
 		<div id="design-tools-container">
 			<p>This is a design board that was used during our design workshops to guide workshop participants through the stages in the design process. You can download a print version of this design board <a href="../images/7_design_tools/design_board.png" download>here</a>.</p>
-			<figure>
-				<img src="../images/7_design_tools/design_board.png" alt="">
-			</figure>		
+			<img src="../images/7_design_tools/design_board.png" alt="">
 		</div>
 	</section>
 
@@ -42,13 +38,13 @@ permalink: /design-process
 		<p class="download-print-text">Download a print version <a href="../images/7_design_tools/scenario_cards.pdf" download>here</a> (print double-sided).</p>
 		<section class="row	">
 			{% for scenario in site.data.twenty_20.scenario-cards %}
-				<a href='' class='scenario card {{ scenario.type }}'>
-					<img src='{{ scenario.path }}' class='card-img-top' alt=''>
-					<div class='card-body'>
-						<h5 class='card-title'>{{ scenario.theme }}</h5>
-						<p class='card-text'>{% for elem in scenario.elements %}{% if forloop.index < 8 %}{% if elem.last %}{{ elem }}{% else %}{{ elem }}, {% endif %}{% endif %}{% endfor %}</p>
-					</div>
-				</a>
+			<a href='' class='scenario card {{ scenario.type }}'>
+				<img src='{{ scenario.path }}' class='card-img-top' alt=''>
+				<div class='card-body'>
+					<h5 class='card-title'>{{ scenario.theme }}</h5>
+					<p class='card-text'>{% for elem in scenario.elements %}{% if forloop.index < 8 %}{% if elem.last %}{{ elem }}{% else %}{{ elem }}, {% endif %}{% endif %}{% endfor %}</p>
+				</div>
+			</a>
 			{% endfor %}
 		</section>
 		<h1 class="divider">Design Cards</h1>
@@ -75,10 +71,10 @@ permalink: /design-process
 			<li>Some design patterns are from <a href="https://dl.acm.org/doi/10.1145/3173574.3173612" target="blank">Design Patterns for Data Comics</a></li>
 		</ul>
 	</section>
-<!-- </div> -->
-<script>
-	$(document).ready(function() {
-		$('.page-scroll.active').removeClass('active');
-		$('#design-process-tab').addClass('active');	
-	});	
-</script>
+	<!-- </div> -->
+	<script>
+		$(document).ready(function() {
+			$('.page-scroll.active').removeClass('active');
+			$('#design-process-tab').addClass('active');	
+		});	
+	</script>
