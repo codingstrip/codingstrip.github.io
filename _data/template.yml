@@ -3,11 +3,13 @@ color:
   primary: 3cb371
   secondary: 6ecf99   
   secondary-dark: 00283c
+  fourth: ffcb62
   muted: 777
 
 # Font Families
 font:
   primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
   secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  third: '"Lato","Helvetica Neue","Helvetica","Arial","sans-serif"'
 
-last_updated: 09/11/2019  
+last_updated: 08/08/2020

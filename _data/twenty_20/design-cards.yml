@@ -1,0 +1,239 @@
+- type: "explanation"
+  pattern: "Conversation-based Interaction"
+  path: '../images/5_cards/design/design-conversation-based interaction.png'
+  width: 140
+  height: 60
+  alt: 
+  description: "This pattern utilizes dialogues or conversations to denote a particular action in the code. For instance, a question in the conversation may be used to indicate calling/invoking a function."
+
+- type: "explanation"
+  pattern: "Narration-based explanation"
+  path: '../images/5_cards/design/design-narration-explanation.png'
+  width: 90
+  height: 80
+  alt: 
+  description: "This pattern adds an explanatory text (narration) within the panel. It is useful when you need to communicate with readers directly. E.g., to explain each step/action of a process."
+
+- type: "explanation"
+  pattern: "Legend"
+  path: '../images/5_cards/design/design-legend.png' 
+  width: 160
+  height:   70  
+  alt: 
+  description: "This pattern shows a legend panel within a panel or in a standalone panel. The legend panel is used to inform what the particular annotations (e.g., color, symbols) mean. It can be used to help readers understand how they should interpret your annotations."
+
+- type: "explanation"
+  pattern: "Character-based explanation"
+  path: '../images/5_cards/design/design-character-explanation.png' 
+  width: 160
+  height: 70  
+  alt: 
+  description: "This pattern shows a character narrating and explaining the concept. It is similar yet different from narration-based explanation as it is the character (not you) interacting with readers."
+
+- type: "explanation"
+  pattern: "Conversation-based explanation"
+  path: '../images/5_cards/design/design-conversation-based-explanation.png' 
+  width: 60
+  height: 80   
+  alt: 
+  description: "This pattern embeds the explanatory text from the perspective of the characters. This is useful when you wish to explain certain things within the context of the story. E.g. to explain each step/action of a process within the story setting."
+
+- type: "selection"
+  pattern: "What-If"
+  path: '../images/5_cards/design/design-what-if.png' 
+  width: 160
+  height: 80
+  alt: 
+  description: "This pattern shows an additional panel(s) within a panel to demonstrate other potential outcomes. It allows readers to see the two possible results for each condition and which one ends up happening. The pattern may be useful when you have two different possibilities, and one of them may be more favorable than the other--which the character ends up selecting."
+
+- type: "selection"
+  pattern: "Comparison"
+  path: '../images/5_cards/design/design-comparison.png' 
+  width: 160
+  height: 60
+  alt: 
+  description: "This pattern shows a question in-between two things being compared to each other. It allows readers to easily identify which two things are being compared, as they are placed next to each other. It is useful when you want the take away to be a particular aspect being compared."
+
+- type: "selection"
+  pattern: "Alternatives"
+  path: '../images/5_cards/design/design-alternatives.png' 
+  width: 140
+  height: 80
+  alt: 
+  description: "This pattern emphasizes the existence of many different cases. Thus it is used more like a summary/overview than as a presentation of a particular case."
+
+- type: "selection"
+  pattern: "Is-It"
+  path: '../images/5_cards/design/design-is-it.png' 
+  width: 90
+  height: 80
+  alt: 
+  description: "This pattern shows a character or object engaging in quick reflection to check whether a given condition is true or not."
+
+- type: "repetition"
+  pattern: "Conditional repetition"
+  path: '../images/5_cards/design/design-conditional-repetition.png' 
+  width: 170
+  height: 35
+  alt: 
+  description: "This pattern shows multiple panels with questions repeating during the sequence, ending with an exclamation mark. It is an easy way to display several (validation) steps. Also, although it requires many panels, showing each step has many benefits over skipping them, as novice learners have difficulty visualizing each step on their own."
+
+- type: "repetition"
+  pattern: "Counted repetition"
+  path: '../images/5_cards/design/design-counted-repetition.png' 
+  width: 170
+  height: 50
+  alt: 
+  description: "This pattern shows panels with numbers on them, with each panel representing each iteration. It allows readers to see what is happening during each iteration."
+
+- type: "presentation"
+  pattern: "Flowchart"
+  path: '../images/5_cards/design/design-flowchart.png' 
+  width: 150
+  height: 70
+  alt: 
+  description: "This pattern leverages the flowchart to show all the possible sequence of events. It is useful for showing all cases in a simple graph or how a character would reach a decision."
+
+- type: "presentation"
+  pattern: "Question & Answer"
+  path: '../images/5_cards/design/design-question-answer.png' 
+  width: 150
+  height: 50
+  alt: 
+  description: "Question & answer starts with a question and then shows an answer or eventual resolution. It engages an audience by dropping a hint of the contents that are going to present in the comic. Usually, it can elicit readers’ curiosity and motivate them to continue reading until they find an answer."
+
+- type: "presentation"
+  pattern: "Multiple Scenarios"
+  path: '../images/5_cards/design/design-multiple-scenarios.png' 
+  width: 100
+  height: 90
+  alt: 
+  description: "This pattern shows multiple usage scenarios. You may use this to inform various use cases of this concept."
+
+- type: "presentation"
+  pattern: "Lens"
+  path: '../images/5_cards/design/design-lens.png' 
+  width: 120
+  height: 90
+  alt: 
+  description: "This pattern zooms in and allows readers to look at the detail interactions and conversations between the characters/objects. Conversations and interactions can provide readers a chance to observe each execution step in more detail (often annotated by texts) within the global context."
+
+- type: "presentation"
+  pattern: "Grouping"
+  path: '../images/5_cards/design/design-grouping.png' 
+  width: 100
+  height: 90
+  alt: 
+  description: "This pattern classifies objects into different groups. The grouping pattern is useful for showing the relationship between the objects and highlight the difference between different groups. E.g., the objects belong to the same execution process. It is especially useful when there are multiple execution processes."
+
+- type: "presentation"
+  pattern: "Visualization"
+  path: '../images/5_cards/design/design-visualization.png' 
+  width: 120
+  height: 60
+  alt: 
+  description: "This pattern shows the relationship between the characters or objects in the story by embedding them in visualizations commonly used in computing education to illustrate data structures or algorithms."
+
+- type: "presentation"
+  pattern: "Zoom"
+  path: '../images/5_cards/design/design-zoom.png' 
+  width: 165
+  height: 60
+  alt: 
+  description: "This pattern shows multiple panels, with each panel gradually zooming into a particular area. It signals to readers that you are going to shift your focus to a specific area/aspect of a concept."
+
+- type: "presentation"
+  pattern: "Break-the-fourth-wall"
+  path: '../images/5_cards/design/design-break-fourth-wall.png' 
+  width: 140
+  height: 60
+  alt: 
+  description: "This pattern shows a character outside its world (panels). It is a creative, dramatic technique often used in films. This design pattern can allow characters/objects to display an awareness of readers and/or interact with them, making the reading experience fun and engaging."
+
+- type: "presentation"
+  pattern: "Abstraction"
+  path: '../images/5_cards/design/design-abstraction.png' 
+  width: 120
+  height: 60
+  alt: 
+  description: "This pattern shows readers the abstract representation of real-life objects, forms, or structures that were present in the story. It helps readers see that they can remove concrete details in real-life objects, shapes, or structures to derive abstract representations."
+
+- type: "presentation"
+  pattern: "Concretization"
+  path: '../images/5_cards/design/design-concretization.png' 
+  width: 110
+  height: 80
+  alt: 
+  description: "This pattern shows readers various concrete representations of an abstract concept. By doing so, it helps readers to see how a given concept can generalize and can be found in things we are already familiar with."
+
+- type: "presentation"
+  pattern: "Gradual Reveal"
+  path: '../images/5_cards/design/design-gradual-reveal.png' 
+  width: 175
+  height: 30
+  alt: 
+  description: "This pattern first focuses on a particular part of the whole picture and gradually reveals the entire picture. It is often useful for engaging the audience."
+
+- type: "presentation"
+  pattern: "Moments"
+  path: '../images/5_cards/design/design-moments.png' 
+  width: 150
+  height: 80
+  alt: 
+  description: "This pattern presents the states at different times and places them next to each other. It is useful for highlighting the important states in the execution process."
+
+- type: "presentation"
+  pattern: "Before/After"
+  path: '../images/5_cards/design/design-before-after.png' 
+  width: 150
+  height: 80
+  alt: 
+  description: "This pattern shows two panels: before and after the application of a concept. This helps readers immediately find out what happens if a concept is applied, without requiring them to read minute details in the process."
+
+- type: "sequence"
+  pattern: "Assign"
+  path: '../images/5_cards/design/design-assign.png' 
+  width: 160
+  height: 70
+  alt: 
+  description: "This pattern shows the states before and after the assignment and annotates the assignment action with text or other ways. The assign pattern shows readers that something is actively being placed into somewhere for storage or for later use."
+
+- type: "sequence"
+  pattern: "Passing on"
+  path: '../images/5_cards/design/design-passing-on.png' 
+  width: 150
+  height: 60
+  alt: 
+  description: "The pattern illustrates the transfer of a data/object between two characters. This pattern helps show when a piece of information is being passed on from one place to another. For instance, when illustrating the parameters of a function or variable assignments."
+
+- type: "sequence"
+  pattern: "Highlighted Transition"
+  path: '../images/5_cards/design/design-highlighted-transition.png' 
+  width: 165
+  height: 70
+  alt: 
+  description: "This pattern shows the state of all objects and highlights an object being acted on at that particular panel. Compared to the “Numbered Transition” pattern, it requires more panels. But it helps the process become more concrete."
+
+- type: "sequence"
+  pattern: "Numbered Transition"
+  path: '../images/5_cards/design/design-numbered-transition.png' 
+  width: 100
+  height: 90
+  alt: 
+  description: "The state changes on different time are shown on the same panel by using numbers to annotate the sequence of state transitions.  As opposed to “Highlighted Transition”, this pattern saves space but demands readers to visualize the transitions in their head."
+
+- type: "sequence"
+  pattern: "Annotated Transition"
+  path: '../images/5_cards/design/design-annotated-transition.png' 
+  width: 100
+  height: 60
+  alt: 
+  description: "The pattern shows the states with annotated actions. It is used to clarify the  actions in the story. It is especially useful when the state changes are complicated, and the characters take different steps."
+
+- type: "sequence"
+  pattern: "Point-of-view Switch"
+  path: '../images/5_cards/design/design-pov-switch.png' 
+  width: 100
+  height: 60
+  alt: 
+  description: "This pattern switches the focus of the narrative from one character to another. It is useful for highlighting different execution process, e.g., function calls or context switch."

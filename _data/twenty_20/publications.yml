@@ -1,0 +1,38 @@
+- link: 'https://sanghosuh.github.io/papers/codingstrip_vlhcc.pdf'
+  path: '../images/6_paper/vlhcc-coding_strip.png'
+  alt: 
+  description: 
+  width: 
+  height: 
+  title: "Coding Strip: A Pedagogical Tool for Teaching and Learning Programming Concepts through Comics"
+  year: "2020"
+  conference: IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
+  authors: 
+    - Sangho Suh 
+    - Martinet Lee
+    - Gracie Xia
+    - Edith Law
+
+- link: 'https://sanghosuh.github.io/papers/abstraction_vlhcc.pdf'
+  path: '../images/6_paper/vlhcc-abstraction_ladder.png'
+  alt: 
+  description: 
+  width: 
+  height: 
+  title: "Promoting Meaningful Learning by Supporting Interplay within Abstraction Ladder"
+  year: "2020"
+  conference: IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
+  authors: 
+    - Sangho Suh
+
+- link: 'https://sanghosuh.github.io/papers/concreteness_icer.pdf'
+  path: '../images/6_paper/icer-concreteness_fading.png'
+  alt: 
+  description: 
+  width: 
+  height: 
+  title: "Using Concreteness Fading to Model & Design Learning Process"
+  year: "2019"
+  conference: 'Proceedings of the 2019 ACM Conference on International Computing Education Research (ICER)'
+  authors: 
+    - Sangho Suh

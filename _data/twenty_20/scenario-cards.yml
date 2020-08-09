@@ -1,0 +1,333 @@
+- type: "conflicts"
+  theme: "Between"
+  path: '../images/5_cards/scenario/icons8-couple_man_woman.png'
+  alt: 
+  color: "F5938D"
+  elements: 
+    - Companies
+    - Coworkers
+    - Countries
+    - Family Members
+    - Friends
+    - Siblings
+    - Lovers
+    - Rivals
+    - Competitors
+    - Predator and Preys
+    - Students and Teachers
+
+- type: "conflicts"
+  theme: "Feeling"
+  path: '../images/5_cards/scenario/icons8-zombie.png'
+  alt: 
+  color: "F5938D"
+  elements: 
+    - Sad
+    - Surprised
+    - Unwell
+    - Headache
+    - Hurt
+    - Hungry
+    - Tired
+    - Uncertain
+
+- type: "conflicts"
+  theme: "Unable To"
+  path: '../images/5_cards/scenario/icons8-important_user.png'
+  alt: 
+  color: "F5938D"
+  elements: 
+    - Find 
+    - Contact
+    - Decide
+    - Finish
+    - Visit
+    - Eat 
+    - Sleep
+    - Exercise
+    - Study
+    - Communicate
+    - Speak
+    - Talk
+    - Travel
+    - Play
+    - Organize
+    - Understand
+    - Use
+    - Remember
+    - Play
+    - Fix
+    - Enjoy
+    - Reach
+    - Participate
+    - Compromise
+
+- type: "actions"
+  theme: "Work"
+  path: '../images/5_cards/scenario/icons8-working_with_a_laptop.png'
+  alt: 
+  color: "BED8FE"
+  elements: 
+    - Commuting
+    - Studying
+    - Baking
+    - Coding
+    - Cooking
+    - Training
+    - Writing
+    - Advertising
+    - Performing
+    - Driving
+    - Serving
+    - Nursing
+    - Reporting
+    - Diagnosing
+    - Protecting
+
+- type: "actions"
+  theme: "Hobby/Leisure"
+  path: '../images/5_cards/scenario/icons8-football.png'
+  alt: 
+  color: "BED8FE"
+  elements: 
+    - Playing sports/games
+    - Surfing
+    - Swimming
+    - Watching Movies/Concert/Musical
+    - Traveling
+    - Biking
+    - Shopping
+
+- type: "actions"
+  theme: "Daily"
+  path: '../images/5_cards/scenario/icons8-sleeping_over_the_computer.png'
+  alt: 
+  color: "BED8FE"
+  elements: 
+    - Breathing
+    - Eating
+    - Sleeping
+    - Socializing
+
+- type: "things"
+  theme: "Animals"
+  path: '../images/5_cards/scenario/icons8-bear.png'
+  alt: 
+  color: "FDE6A0"
+  elements: 
+    - Bear
+    - Dog
+    - Cat
+    - Hamster
+    - Tiger
+    - Lion
+    - Birds
+    - Fish
+    - Insects
+
+- type: "things"
+  theme: "Objects"
+  path: '../images/5_cards/scenario/icons8-book.png'
+  alt: 
+  color: "FDE6A0"
+  elements: 
+    - Airplane
+    - Pencil
+    - Pen
+    - Book
+    - Car
+    - Card
+    - Cloth
+    - Desk
+    - Shoe
+    - Mobile Device
+
+- type: "things"
+  theme: "Plants"
+  path: '../images/5_cards/scenario/icons8-_asparagus_vegetable.png'
+  alt: 
+  color: "FDE6A0"
+  elements: 
+    - Flowers
+    - Tree
+    - Grass
+    - Mushrooms
+    - Vegetable
+    - Fruit
+    - Moss
+    - Sunflower
+    - Rose
+
+- type: "things"
+  theme: "Fruits"
+  path: '../images/5_cards/scenario/icons8-pear.png'
+  alt: 
+  color: "FDE6A0"
+  elements: 
+    - Apple
+    - Avocado
+    - Banana
+    - Blueberries
+    - Cherries
+    - Grapes
+    - Grapefruit
+    - Lemon
+    - Mango
+    - Orange
+    - Peaches
+    - Pear
+    - Pineapple
+    - Strawberries
+    - Watermelon
+
+- type: "things"
+  theme: "Planets"
+  path: '../images/5_cards/scenario/icons8-globe.png'
+  alt: 
+  color: "FDE6A0"
+  elements: 
+    - Earth
+    - Venus
+    - Sun
+    - Mercury
+    - Mars
+    - Jupiter
+    - Saturn
+    - Uranus
+    - Neptune
+
+- type: "things"
+  theme: "Food"
+  path: '../images/5_cards/scenario/icons8-restaurant.png'
+  alt: 
+  color: "FDE6A0"
+  elements: 
+    - Spaghetti
+    - Hamburger
+    - Sausage
+    - Cocktail
+    - Wine
+    - Beer
+    - Ice Cream
+    - Cheescake
+
+- type: "things"
+  theme: "Cartoon/Animation Characters"
+  path: '../images/5_cards/scenario/icons8-super_mario.png'
+  alt: 
+  color: "FDE6A0"
+  elements: 
+    - Bugs Bunny
+    - Charlie Brown
+    - Donald Duck
+    - Mickey Mouse
+    - Jerry Mouse
+    - Mario
+    - Homer Simpson
+    - Sponge Bob
+    - Snoopy
+    - Popeye
+    - Tigger
+    - Winnie-the-Pooh
+
+- type: "settings"
+  theme: "House"
+  path: '../images/5_cards/scenario/icons8-cottage.png'
+  alt: 
+  color: "6FC593"
+  elements: 
+    - Attic
+    - Bathroom
+    - Bedroom
+    - Basement
+    - Changing Room
+    - Dining Room
+    - Laundry Room
+    - Living Room
+    - Kitchen
+    - Office
+
+- type: "settings"
+  theme: "Stores"
+  path: '../images/5_cards/scenario/icons8-small_business.png'
+  alt: 
+  color: "6FC593"
+  elements: 
+    - Antique Shop
+    - Barbershop
+    - Bakery
+    - Bookstore
+    - Cafe
+    - Convenience Store
+    - Department Store
+    - Gas station
+    - Mall
+    - Market
+    - Theater
+    - Outlet
+    - Pharmacy
+    - Salon
+    - Supermarket
+
+- type: "settings"
+  theme: "Institution"
+  path: '../images/5_cards/scenario/icons8-museum.png'
+  alt: 
+  color: "6FC593"
+  elements: 
+    - School
+    - Hospital
+    - Military
+    - Museum
+    - Library
+    - Stadium
+
+- type: "settings"
+  theme: "Time Setting"
+  path: '../images/5_cards/scenario/icons8-planner.png'
+  alt: 
+  color: "6FC593"
+  elements: 
+    - Weekday
+    - Weekend
+    - Holidays
+    - New Year
+    - Christmas
+    - Thanksgiving
+    - Black Friday
+
+- type: "settings"
+  theme: "Scenic Places"
+  path: '../images/5_cards/scenario/icons8-gallery.png'
+  alt: 
+  color: "6FC593"
+  elements: 
+    - Beach
+    - Mountain
+    - Forest
+    - River
+    - Niagara River
+    - Hawaii
+    - Grand Canyon
+
+- type: "settings"
+  theme: "Context"
+  path: '../images/5_cards/scenario/icons8-globe_earth.png'
+  alt: 
+  color: "6FC593"
+  elements: 
+    - Playing Sports
+    - Working
+    - Enjoying Hobby/Leisure
+    - Traveling
+    - Eating
+    - Sleeping
+    - Socializing
+    - Talking
+    - Visiting Places
+    - Riding on Transportation
+    - Commuting
+    - Studying
+    - Meeting
+    - Watching Movies
+    - Enjoying Holiday

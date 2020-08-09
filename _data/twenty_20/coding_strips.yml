@@ -1,0 +1,160 @@
+- path: '../images/1_constructs/1_variable/peter_parker/1.png'
+  alt: 
+  description: 
+  width: 
+  height: 
+  title: Spiderman
+  concept: variable  
+  authors: 
+    - Sangho Suh 
+    - Bernadette Cheng
+
+- path: '../images/1_constructs/1_variable/Group_loop_(variable).png'
+  alt: 
+  description: 
+  width: 400
+  height: 600
+  title: Housing
+  concept: variable  
+  authors: 
+    - Workshop Participants
+    - Bernadette Cheng
+
+- path: '../images/1_constructs/1_variable-assignment/C2B1.png'
+  alt: 
+  description: 
+  width: 
+  height: 
+  title: Piggy Bank    
+  concept: variable
+  authors: 
+    - Sangho Suh
+    - Bernadette Cheng
+
+- path: '../images/1_constructs/2_boolean/1.4.png'
+  alt: 
+  description: 
+  width: 
+  height:     
+  title: Bob Lean
+  concept: boolean
+  authors: 
+    - Workshop Participants
+    - Bernadette Cheng
+
+- path: '../images/1_constructs/3_conditional/3.png'
+  alt: 
+  description: 
+  width: 
+  height:     
+  title: Pizza Delivery
+  concept: conditional  
+  authors: 
+    - Workshop Participants
+    - Bernadette Cheng
+
+- path: '../images/1_constructs/4_counted_loop/2.png'
+  alt: 
+  description: 
+  width: 
+  height:     
+  title: Candies
+  concept: for loop
+  authors: 
+    - Workshop Participants
+    - Bernadette Cheng
+
+- path: '../images/1_constructs/4_counted_loop/Moments.png'
+  alt: 
+  description: 
+  width: 
+  height:     
+  title: Capt'n Crunch Challenge  
+  concept: for loop
+  authors: 
+    - Sangho Suh
+    - Bernadette Cheng
+
+- path: '../images/1_constructs/6_function/1.1.png'
+  alt: 
+  description: 
+  width: 
+  height:     
+  title: Snapchat
+  concept: function
+  authors: 
+    - Workshop Participants
+    - Bernadette Cheng
+
+- path: '../images/2_data_structure/1_array/frog-jump.jpg'
+  alt: 
+  description: 
+  width: 
+  height:     
+  title: Frog & Lily Pad
+  concept: array & while loop
+  authors: 
+    - Gracie Xia
+
+- path: '../images/2_data_structure/4_stack/stack.jpg'
+  alt: 
+  description: 
+  width: 300
+  height: 900
+  title: Stack of Plates
+  concept: stack
+  authors: 
+    - Gracie Xia
+
+- path: '../images/3_algorithm/3_merge_sort/merge_sort.jpg'
+  alt: 
+  description: 
+  width: 300
+  height: 558
+  title: Merge Sort
+  concept: merge sort
+  authors: 
+    - Gracie Xia
+
+- path: '../images/3_algorithm/4_bubble_sort/bubble_sort.jpg'
+  alt: 
+  description: 
+  width: 300
+  height: 477
+  title: Bubble Sort
+  concept: bubble sort
+  authors: 
+    - Gracie Xia
+
+- path: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_1.png'
+  alt: 
+  description: 
+  width: 
+  height:     
+  title: Bonus at Workplace
+  concept: recursion
+  authors: 
+    - Sangho Suh
+    - Bernadette Cheng
+
+- path: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/4.1.png'
+  alt: 
+  description: 
+  width: 
+  height: 
+  title: Cleaning Day at School
+  concept: recursion
+  authors: 
+    - Workshop Participants
+    - Bernadette Cheng
+
+- path: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_1.png'
+  alt: 
+  description: 
+  width: 
+  height:     
+  title: Concert
+  concept: recursion
+  authors: 
+    - Sangho Suh
+    - Bernadette Cheng

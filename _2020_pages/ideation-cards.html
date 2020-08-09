@@ -1,0 +1,43 @@
+---
+layout: 2020_default
+permalink: /ideation-cards
+---
+
+<section id="ideation-cards">
+
+	<h1 class="divider">Trigger Cards</h1>
+		<section class="row">
+			{% for trigger in site.data.twenty_20.trigger-cards %}
+			<a id=''  href='' class='trigger card'>
+				<div class="card-body">
+					<h5 class="card-title"> {{ trigger.question }} </h5>
+				</div>
+				<img class='card-img-bottom' src='{{ trigger.path }}' alt=''>
+			</a>
+			{% endfor %}
+		</section>
+		<h1 class="divider">Scenario Cards</h1>
+		<section class="row	">
+			{% for scenario in site.data.twenty_20.scenario-cards %}
+				<a href='' class='scenario card {{ scenario.type }}'>
+					<img src='{{ scenario.path }}' class='card-img-top' alt=''>
+					<div class='card-body'>
+						<h5 class='card-title'>{{ scenario.theme }}</h5>
+						<p class='card-text'>{% for elem in scenario.elements %}{% if forloop.index < 8 %}{% if elem.last %}{{ elem }}{% else %}{{ elem }}, {% endif %}{% endif %}{% endfor %}</p>
+					</div>
+				</a>
+			{% endfor %}
+		</section>
+		<h1 class="divider">Design Cards</h1>
+		<section class="row">
+		{% for design in site.data.twenty_20.design-cards %}
+		<a id='{{ design.path }}' href='' class='design card {{ design.type }}'>
+		<img src='{{ design.path }}' style='width: {{ design.width }}px; height: {{ design.height }}px' class='card-img-top' alt=''>
+		<div class='card-body'>
+		<h5 class="card-title">{{ design.pattern }}</h5>
+		<!-- <p class='card-text'>{{ design.description }}</p> -->
+		<button type="button" class="btn btn-outline-primary" data-container="body" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="{{ design.description }}">
+		Description</button></div></a>
+		{% endfor %}
+		</section>
+	</section>
