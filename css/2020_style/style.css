@@ -1481,7 +1481,7 @@ a:hover {
     padding: 0px 10px;
   }
   .design-process-container > img {
-    /*width:55% !important;*/
+    width:70% !important;
   }
   .divider {
     font-size: 2em !important;
@@ -1585,8 +1585,12 @@ a:hover {
     align-items: center;
   }
   .design-process-container > img {
-    width: 70% !important;
-    height: 70% !important;
+    width: 90% !important;
+    height: 90% !important;
+  }  
+  #design-tools-container > img {
+    width: 90%;
+    height: 90%;
   }  
   #coding-strip-info {
     flex-direction: column;
