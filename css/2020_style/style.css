@@ -1426,6 +1426,7 @@ a:hover {
 }
 
 .download-print-text {
+    margin: auto;
     font-size: 1.2em;
 }
 
