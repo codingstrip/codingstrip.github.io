@@ -23,7 +23,7 @@ permalink: /design-process
 		<p class="download-print-text">Download a print version <a href="../images/7_design_tools/trigger_cards.pdf" download>here</a> (print double-sided).</p>
 		<section class="row">
 			{% for trigger in site.data.twenty_20.trigger-cards %}
-			<a id=''  href='' class='trigger card'>
+			<a id=''  href='' onclick="return false" class='trigger card'>
 				<div class="card-body">
 					<h5 class="card-title"> {{ trigger.question }} </h5>
 				</div>
@@ -35,7 +35,7 @@ permalink: /design-process
 		<p class="download-print-text">Download a print version <a href="../images/7_design_tools/scenario_cards.pdf" download>here</a> (print double-sided).</p>
 		<section class="row	">
 			{% for scenario in site.data.twenty_20.scenario-cards %}
-			<a href='' class='scenario card {{ scenario.type }}'>
+			<a href='' onclick="return false" class='scenario card {{ scenario.type }}'>
 				<img src='{{ scenario.path }}' class='card-img-top' alt=''>
 				<div class='card-body'>
 					<h5 class='card-title'>{{ scenario.theme }}</h5>
@@ -48,7 +48,7 @@ permalink: /design-process
 		<p class="download-print-text">Download a print version <a href="../images/7_design_tools/design_cards.pdf" download>here</a> (print double-sided).</p>
 		<section class="row">
 			{% for design in site.data.twenty_20.design-cards %}
-			<a id='{{ design.path }}' href='' class='design card {{ design.type }}'>
+			<a id='{{ design.path }}' href='' onclick="return false" class='design card {{ design.type }}'>
 				<img src='{{ design.path }}' style='width: {{ design.width }}px; height: {{ design.height }}px' class='card-img-top' alt=''>
 				<div class='card-body'>
 					<h5 class="card-title">{{ design.pattern }}</h5>

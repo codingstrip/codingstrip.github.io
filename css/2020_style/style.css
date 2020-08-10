@@ -1091,6 +1091,8 @@ article, figure {
     vertical-align: top;
     /*margin-left: 50px;*/
     margin: 20px;
+    /*pointer-events: none;*/
+    cursor: default;
 }
 
 .card-title {
