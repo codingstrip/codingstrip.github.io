@@ -1555,7 +1555,7 @@ a:hover {
 
 @media screen and (max-width : 768px){
   main {
-    padding: 0 25px;
+    padding: 0px;
   }    
   body {
       padding-bottom: 150px;
