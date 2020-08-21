@@ -10,7 +10,7 @@ permalink: /publications
 		<img class="publication-image" src="{{publication.path_compressed}}" alt="">
 		<div>
 			<a href="{{publication.link}}" target="_blank"><h1 class="publication-title">{{publication.title}}</h1></a>
-			<span class="publication-authors">{% for author in publication.authors %}{% if forloop.last %}{{ author }}.{% else %}{{ author }}, {% endif %}{% endfor %} {{ publication.conference }}, {{ publication.year }}</span>
+			<span class="publication-authors">{% for author in publication.authors %}{% if forloop.last %}{{ author }}.{% else %}{{ author }}, {% endif %}{% endfor %} {{ publication.conference }}, {{ publication.year }} <br>[<a href="{{publication.link}}" target="_blank">paper</a>]{% if publication.post %} [<a href="{{publication.post}}" target="_blank">post</a>]{% endif %}</span>
 		</div>
 	</section>
 	<hr size="30" width="70%" noshade>
