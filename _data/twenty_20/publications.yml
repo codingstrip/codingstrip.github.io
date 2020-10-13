@@ -1,3 +1,20 @@
+- link: ''
+  path: '../images/6_paper/sigcse-use_cases.png'
+  path_compressed: '../images/6_paper/sigcse-use_cases.png'
+  alt: 
+  description: 
+  width: 
+  height: 
+  title: "Using Comics to Introduce and Reinforce Programming Concepts in CS1"
+  year: "2021"
+  conference: Special Interest Group on Computer Science Education (SIGCSE)
+  authors: 
+    - Sangho Suh 
+    - Celine Latulipe
+    - Ken Jen Lee
+    - Bernadette Cheng    
+    - Edith Law
+
 - link: 'https://sanghosuh.github.io/papers/codingstrip_vlhcc.pdf'
   path: '../images/6_paper/vlhcc-coding_strip.png'
   path_compressed: '../images/6_paper/vlhcc-coding_strip-min.png'
