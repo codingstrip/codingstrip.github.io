@@ -1,16 +1,36 @@
-- path: '../images/1_constructs/1_variable/peter_parker/1.png'
+- path:  
+    - 
+      path_url: '../images/1_constructs/1_variable/peter_parker/1.png'
+      width: '350px'
+    - 
+      path_url: '../images/1_constructs/1_variable/peter_parker/2.png'
+      width: '350px'
+    - 
+      path_url: '../images/1_constructs/1_variable/peter_parker/3.png'
+      width: '350px'
+    - 
+      path_url: '../images/1_constructs/1_variable/peter_parker/4.png'
+      width: '850px'
+    - 
+      path_url: '../images/1_constructs/1_variable/peter_parker/5.png'
+      width: '850px'
   path_compressed: '../images/1_constructs/1_variable/peter_parker/1-min.png'
   alt: 
   description: 
   width: 
   height: 
   title: Spiderman
-  concept: variable  
+  concept: variable
+  id: variable-spiderman
+  link: /codingstrips/variable-spiderman
   authors: 
-    - Sangho Suh 
+    - Workshop Participants
     - Bernadette Cheng
 
-- path: '../images/1_constructs/1_variable/Group_loop_(variable).png'
+- path: 
+    - 
+      path_url: '../images/1_constructs/1_variable/Group_loop_(variable).png'
+      width: '750px'
   path_compressed: '../images/1_constructs/1_variable/Group_loop_(variable)-min.png'
   alt: 
   description: 
@@ -18,23 +38,55 @@
   height: 600
   title: Housing
   concept: variable  
+  id: variable-housing
+  link: /codingstrips/variable-housing
   authors: 
     - Workshop Participants
     - Bernadette Cheng
 
-- path: '../images/1_constructs/1_variable-assignment/C2B1.png'
+- path: 
+    - 
+      path_url: '../images/1_constructs/1_variable-assignment/C2B1.png'
+      width: '450px'
+    - 
+      path_url: '../images/1_constructs/1_variable-assignment/C2B2.png'
+      width: '450px'      
   path_compressed: '../images/1_constructs/1_variable-assignment/C2B1-min.png'
   alt: 
   description: 
   width: 
   height: 
+  id: variable-piggy
+  link: /codingstrips/variable-piggy
   title: Piggy Bank    
   concept: variable
   authors: 
     - Sangho Suh
     - Bernadette Cheng
 
-- path: '../images/1_constructs/2_boolean/1.4.png'
+- path: 
+    - 
+      path_url: '../images/1_constructs/2_boolean/1.1.png'
+      width: '300px'
+    - 
+      path_url: '../images/1_constructs/2_boolean/1.2.png'
+      width: '300px'      
+    - 
+      path_url: '../images/1_constructs/2_boolean/1.3.png'
+      width: '300px'            
+    - 
+      path_url: '../images/1_constructs/2_boolean/1.4.png'
+      width: '300px'            
+    - 
+      path_url: '../images/1_constructs/2_boolean/2.1.png'
+      width: '300px'            
+    - 
+      path_url: '../images/1_constructs/2_boolean/2.2.png'
+      width: '300px'            
+    - 
+      path_url: '../images/1_constructs/2_boolean/2.3.png'
+      width: '300px'            
+
   path_compressed: '../images/1_constructs/2_boolean/1.4-min.png'
   alt: 
   description: 
@@ -42,35 +94,53 @@
   height:     
   title: Bob Lean
   concept: boolean
+  link: /codingstrips/boolean-boblean
+  id: boolean-boblean
   authors: 
     - Workshop Participants
     - Bernadette Cheng
 
-- path: '../images/1_constructs/3_conditional/3.png'
+- path: 
+    - 
+      path_url: '../images/1_constructs/3_conditional/3.png'
+      width: '1000px'
   path_compressed: '../images/1_constructs/3_conditional/3-min.png'
   alt: 
   description: 
   width: 
   height:     
   title: Pizza Delivery
+  id: conditional-pizza
+  link: /codingstrips/conditional-pizza
   concept: conditional  
   authors: 
     - Workshop Participants
     - Bernadette Cheng
 
-- path: '../images/1_constructs/4_counted_loop/2.png'
+- path: 
+    - 
+      path_url: '../images/1_constructs/4_counted_loop/2.png'
+      width: '900px'
   path_compressed: '../images/1_constructs/4_counted_loop/2-min.png'
   alt: 
   description: 
   width: 
   height:     
   title: Candies
+  id: loop-candies
+  link: /codingstrips/loop-candies
   concept: for loop
   authors: 
     - Workshop Participants
     - Bernadette Cheng
 
-- path: '../images/1_constructs/4_counted_loop/Moments.png'
+- path: 
+    - 
+      path_url: '../images/1_constructs/4_counted_loop/Moments.png'
+      width: '550px'
+    - 
+      path_url: '../images/1_constructs/4_counted_loop/Moments_2.png'
+      width: '550px'
   path_compressed: '../images/1_constructs/4_counted_loop/Moments-min.png'
   alt: 
   description: 
@@ -78,11 +148,34 @@
   height:     
   title: Capt'n Crunch Challenge  
   concept: for loop
+  id: loop-crunch
+  link: /codingstrips/loop-crunch
   authors: 
     - Sangho Suh
     - Bernadette Cheng
 
-- path: '../images/1_constructs/6_function/1.1.png'
+- path: 
+    - 
+      path_url: '../images/1_constructs/6_function/1.1.png'
+      width: '350px'
+    - 
+      path_url: '../images/1_constructs/6_function/1.2.png'
+      width: '650px'      
+    - 
+      path_url: '../images/1_constructs/6_function/1.3.png'
+      width: '400px'      
+    - 
+      path_url: '../images/1_constructs/6_function/1.4.png'
+      width: '650px'      
+    - 
+      path_url: '../images/1_constructs/6_function/1.5.png'
+      width: '350px'      
+    - 
+      path_url: '../images/1_constructs/6_function/1.6.png'
+      width: '350px'      
+    - 
+      path_url: '../images/1_constructs/6_function/1.7.png'
+      width: '350px'      
   path_compressed: '../images/1_constructs/6_function/1.1-min.png'
   alt: 
   description: 
@@ -90,11 +183,16 @@
   height:     
   title: Snapchat
   concept: function
+  id: function-snapchat
+  link: /codingstrips/function-snapchat
   authors: 
     - Workshop Participants
     - Bernadette Cheng
 
-- path: '../images/2_data_structure/1_array/frog-jump.jpg'
+- path: 
+    - 
+      path_url: '../images/2_data_structure/1_array/frog-jump.jpg'
+      width: '900px'
   path_compressed: '../images/2_data_structure/1_array/frog-jump-min.jpg'
   alt: 
   description: 
@@ -102,32 +200,53 @@
   height:     
   title: Frog & Lily Pad
   concept: array & while loop
+  id: array-frog
+  link: /codingstrips/array-frog
   authors: 
     - Gracie Xia
 
-- path: '../images/2_data_structure/2_linked_list/Zoom.png'
+- path: 
+    - 
+      path_url: '../images/2_data_structure/2_linked_list/Zoom.png'
+      width: '900px'
+    - 
+      path_url: '../images/2_data_structure/2_linked_list/Zoom_2.png'
+      width: '900px'      
+    - 
+      path_url: '../images/2_data_structure/2_linked_list/Zoom_3.png'
+      width: '900px'      
   path_compressed: '../images/2_data_structure/2_linked_list/Zoom-min.png'
   alt: 
   description: 
   width: 
   height:     
+  id: linkedlist
+  link: /codingstrips/linkedlist
   title: Linked List
   concept: Linked List
   authors: 
     - Sangho Suh & Gracie Xia
 
-- path: '../images/2_data_structure/4_stack/stack.jpg'
+- path: 
+    - 
+      path_url: '../images/2_data_structure/4_stack/stack.jpg'
+      width: '850px'
   path_compressed: '../images/2_data_structure/4_stack/stack-min.jpg'
   alt: 
   description: 
   width: 300
   height: 900
+  id: stack-plates
+  link: /codingstrips/stack-plates
   title: Stack of Plates
   concept: stack
   authors: 
     - Gracie Xia
 
-- path: '../images/3_algorithm/3_merge_sort/merge_sort.jpg'
+- path: 
+    - 
+      path_url: '../images/3_algorithm/3_merge_sort/merge_sort.jpg'
+      width: '900px'
   path_compressed: '../images/3_algorithm/3_merge_sort/merge_sort-min.jpg'
   alt: 
   description: 
@@ -135,10 +254,15 @@
   height: 558
   title: Merge Sort
   concept: merge sort
+  id: merge_sort-house
+  link: /codingstrips/merge_sort-house
   authors: 
     - Gracie Xia
 
-- path: '../images/3_algorithm/4_bubble_sort/bubble_sort.jpg'
+- path: 
+    - 
+      path_url: '../images/3_algorithm/4_bubble_sort/bubble_sort.png'
+      width: '850px'
   path_compressed: '../images/3_algorithm/4_bubble_sort/bubble_sort-min.jpg'
   alt: 
   description: 
@@ -146,26 +270,83 @@
   height: 477
   title: Bubble Sort
   concept: bubble sort
+  link: codingstrips/bubble_sort-height
+  id: bubble_sort-height
   authors: 
     - Gracie Xia
 
-- path: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_1.png'
+- path: 
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_1.png'
+      width: '350px'
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_2.png'
+      width: '350px'      
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_3.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_4.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_5.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_6.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_7.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_8.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_9.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_10.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_11.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_12.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_13.png'
+      width: '350px'            
   path_compressed: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_1-min.png'
   alt: 
   description: 
   width: 
   height:     
   title: Bonus at Workplace
+  id: recursion-bonus
+  link: /codingstrips/recursion-bonus
   concept: recursion
   authors: 
     - Sangho Suh
     - Bernadette Cheng
 
-- path: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/4.1.png'
+- path: 
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/4.1.png'
+      width: '700px'
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/4.2.png'
+      width: '700px'      
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/4.3.png'
+      width: '700px'
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/4.4.png'
+      width: '700px'            
   path_compressed: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/4.1-min.png'
   alt: 
   description: 
   width: 
+  id: recursion-cleaning
+  link: /codingstrips/recursion-cleaning
   height: 
   title: Cleaning Day at School
   concept: recursion
@@ -173,12 +354,53 @@
     - Workshop Participants
     - Bernadette Cheng
 
-- path: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_1.png'
+- path: 
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_1.png'
+      width: '350px'
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_2.png'
+      width: '350px'      
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_3.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_4.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_5.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_6.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_7_.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_8.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_9_.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_10.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_11.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_12.png'
+      width: '350px'            
+    - 
+      path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_13.png'
+      width: '350px'                  
   path_compressed: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_1-min.png'
   alt: 
   description: 
   width: 
   height:     
+  id: recursion-concert
+  link: /codingstrips/recursion-concert
   title: Concert
   concept: recursion
   authors: 

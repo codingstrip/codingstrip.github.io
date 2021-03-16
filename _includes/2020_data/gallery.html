@@ -13,7 +13,8 @@
 		{% for strip in site.data.twenty_20.coding_strips %}
 		{% assign mod = forloop.index | modulo: 3 %}
 		{% if mod == 1 %}<section class="row">{% endif %}
-			<article class="coding-strip">
+			{% if strip.link %}
+			<a class="coding-strip" href="{{ strip.link }}">
 				<figure class="image">
 					<img src="{{ strip.path_compressed | prepend: site.baseurl }}" width="{{ strip.width }}" height="{{ strip.height }}" alt="{{ strip.alt }}">
 				</figure>
@@ -30,7 +31,27 @@
 					{% endif %}
 					{% endfor %}
 				</span>
-			</article>
+			</a>
+			{% else %}
+			<a class="coding-strip">
+				<figure class="image">
+					<img src="{{ strip.path_compressed | prepend: site.baseurl }}" width="{{ strip.width }}" height="{{ strip.height }}" alt="{{ strip.alt }}">
+				</figure>
+				<div class="strip-title">
+					<h2 class="coding-strip-title">{{ strip.title }}</h2>
+					<span class="coding-strip-concept">({{ strip.concept }})</span>
+				</div>
+				<span class="authors">
+					{% for author in strip.authors %}
+					{% if forloop.last %}
+					{{ author }}
+					{% else %}
+					{{ author }} & 
+					{% endif %}
+					{% endfor %}
+				</span>
+			</a>
+			{% endif %}
 		{% if mod == 0 %}</section>{% endif %}
 		{% endfor %}
 	</section>
