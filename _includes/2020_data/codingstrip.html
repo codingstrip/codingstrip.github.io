@@ -21,7 +21,7 @@
 		{% for strip in strips %}
 		{% if strip.id == page.id %}
 		{% for each in strip.path %}
-		<img src="{{each.path_url}}" width="{{each.width}}" height="auto" alt="">
+		<img src="{{each.path_url}}" width="{{each.width}}" height="{{ each.height }}" style="object-fit:contain" alt="">
 		{% endfor %}
 		{% endif %}
 		{% endfor %}

@@ -1,19 +1,24 @@
 - path:  
     - 
       path_url: '../images/1_constructs/1_variable/peter_parker/1.png'
-      width: '350px'
+      width: '30%'
+      height: '30%'
     - 
       path_url: '../images/1_constructs/1_variable/peter_parker/2.png'
-      width: '350px'
+      width: '30%'
+      height: '30%'
     - 
       path_url: '../images/1_constructs/1_variable/peter_parker/3.png'
-      width: '350px'
+      width: '30%'
+      height: '30%'
     - 
       path_url: '../images/1_constructs/1_variable/peter_parker/4.png'
-      width: '850px'
+      width: '85%'
+      height: '85%'
     - 
       path_url: '../images/1_constructs/1_variable/peter_parker/5.png'
-      width: '850px'
+      width: '85%'
+      height: '85%'
   path_compressed: '../images/1_constructs/1_variable/peter_parker/1-min.png'
   alt: 
   description: 
@@ -30,7 +35,8 @@
 - path: 
     - 
       path_url: '../images/1_constructs/1_variable/Group_loop_(variable).png'
-      width: '750px'
+      width: '75%'
+      height: '75%'
   path_compressed: '../images/1_constructs/1_variable/Group_loop_(variable)-min.png'
   alt: 
   description: 
@@ -47,10 +53,12 @@
 - path: 
     - 
       path_url: '../images/1_constructs/1_variable-assignment/C2B1.png'
-      width: '450px'
+      width: '40%'
+      height: '40%'
     - 
       path_url: '../images/1_constructs/1_variable-assignment/C2B2.png'
-      width: '450px'      
+      width: '40%'
+      height: '40%'
   path_compressed: '../images/1_constructs/1_variable-assignment/C2B1-min.png'
   alt: 
   description: 
@@ -67,25 +75,32 @@
 - path: 
     - 
       path_url: '../images/1_constructs/2_boolean/1.1.png'
-      width: '300px'
+      width: '30%'
+      height: '30%'
     - 
       path_url: '../images/1_constructs/2_boolean/1.2.png'
-      width: '300px'      
+      width: '30%'
+      height: '30%'
     - 
       path_url: '../images/1_constructs/2_boolean/1.3.png'
-      width: '300px'            
+      width: '30%'
+      height: '30%'
     - 
       path_url: '../images/1_constructs/2_boolean/1.4.png'
-      width: '300px'            
+      width: '30%'
+      height: '30%'
     - 
       path_url: '../images/1_constructs/2_boolean/2.1.png'
-      width: '300px'            
+      width: '30%'
+      height: '30%'
     - 
       path_url: '../images/1_constructs/2_boolean/2.2.png'
-      width: '300px'            
+      width: '30%'
+      height: '30%'
     - 
       path_url: '../images/1_constructs/2_boolean/2.3.png'
-      width: '300px'            
+      width: '30%'
+      height: '30%'
 
   path_compressed: '../images/1_constructs/2_boolean/1.4-min.png'
   alt: 
@@ -103,7 +118,8 @@
 - path: 
     - 
       path_url: '../images/1_constructs/3_conditional/3.png'
-      width: '1000px'
+      width: '85%'
+      height: '85%'
   path_compressed: '../images/1_constructs/3_conditional/3-min.png'
   alt: 
   description: 
@@ -120,7 +136,8 @@
 - path: 
     - 
       path_url: '../images/1_constructs/4_counted_loop/2.png'
-      width: '900px'
+      width: '90%'
+      height: '90%'
   path_compressed: '../images/1_constructs/4_counted_loop/2-min.png'
   alt: 
   description: 
@@ -137,10 +154,12 @@
 - path: 
     - 
       path_url: '../images/1_constructs/4_counted_loop/Moments.png'
-      width: '550px'
+      width: '55%'
+      height: '55%'
     - 
       path_url: '../images/1_constructs/4_counted_loop/Moments_2.png'
-      width: '550px'
+      width: '55%'
+      height: '55%'
   path_compressed: '../images/1_constructs/4_counted_loop/Moments-min.png'
   alt: 
   description: 
@@ -157,25 +176,32 @@
 - path: 
     - 
       path_url: '../images/1_constructs/6_function/1.1.png'
-      width: '350px'
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/1_constructs/6_function/1.2.png'
-      width: '650px'      
+      width: '65%'      
+      height: '65%'
     - 
       path_url: '../images/1_constructs/6_function/1.3.png'
-      width: '400px'      
+      width: '40%'
+      height: '40%'
     - 
       path_url: '../images/1_constructs/6_function/1.4.png'
-      width: '650px'      
+      width: '65%'
+      height: '65%'
     - 
       path_url: '../images/1_constructs/6_function/1.5.png'
-      width: '350px'      
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/1_constructs/6_function/1.6.png'
-      width: '350px'      
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/1_constructs/6_function/1.7.png'
-      width: '350px'      
+      width: '35%'
+      height: '35%'
   path_compressed: '../images/1_constructs/6_function/1.1-min.png'
   alt: 
   description: 
@@ -192,7 +218,8 @@
 - path: 
     - 
       path_url: '../images/2_data_structure/1_array/frog-jump.jpg'
-      width: '900px'
+      width: '90%'
+      height: '90%'
   path_compressed: '../images/2_data_structure/1_array/frog-jump-min.jpg'
   alt: 
   description: 
@@ -208,13 +235,16 @@
 - path: 
     - 
       path_url: '../images/2_data_structure/2_linked_list/Zoom.png'
-      width: '900px'
+      width: '90%'
+      height: '90%'
     - 
       path_url: '../images/2_data_structure/2_linked_list/Zoom_2.png'
-      width: '900px'      
+      width: '90%'
+      height: '90%'
     - 
       path_url: '../images/2_data_structure/2_linked_list/Zoom_3.png'
-      width: '900px'      
+      width: '90%'
+      height: '90%'
   path_compressed: '../images/2_data_structure/2_linked_list/Zoom-min.png'
   alt: 
   description: 
@@ -230,7 +260,8 @@
 - path: 
     - 
       path_url: '../images/2_data_structure/4_stack/stack.jpg'
-      width: '850px'
+      width: '85%'
+      height: '85%'
   path_compressed: '../images/2_data_structure/4_stack/stack-min.jpg'
   alt: 
   description: 
@@ -246,7 +277,8 @@
 - path: 
     - 
       path_url: '../images/3_algorithm/3_merge_sort/merge_sort.jpg'
-      width: '900px'
+      width: '90%'
+      height: '90%'
   path_compressed: '../images/3_algorithm/3_merge_sort/merge_sort-min.jpg'
   alt: 
   description: 
@@ -262,7 +294,8 @@
 - path: 
     - 
       path_url: '../images/3_algorithm/4_bubble_sort/bubble_sort.png'
-      width: '850px'
+      width: '85%'
+      height: '85%'
   path_compressed: '../images/3_algorithm/4_bubble_sort/bubble_sort-min.jpg'
   alt: 
   description: 
@@ -278,43 +311,56 @@
 - path: 
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_1.png'
-      width: '350px'
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_2.png'
-      width: '350px'      
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_3.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_4.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_5.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_6.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_7.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_8.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_9.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_10.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_11.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_12.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%' 
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_13.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
   path_compressed: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_1-min.png'
   alt: 
   description: 
@@ -331,16 +377,20 @@
 - path: 
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/4.1.png'
-      width: '700px'
+      width: '70%'
+      height: '70%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/4.2.png'
-      width: '700px'      
+      width: '70%'
+      height: '70%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/4.3.png'
-      width: '700px'
+      width: '70%'
+      height: '70%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/4.4.png'
-      width: '700px'            
+      width: '70%'
+      height: '70%'
   path_compressed: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/4.1-min.png'
   alt: 
   description: 
@@ -357,43 +407,56 @@
 - path: 
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_1.png'
-      width: '350px'
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_2.png'
-      width: '350px'      
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_3.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_4.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_5.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_6.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_7_.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_8.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_9_.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_10.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_11.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_12.png'
-      width: '350px'            
+      width: '35%'
+      height: '35%'
     - 
       path_url: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_13.png'
-      width: '350px'                  
+      width: '35%'
+      height: '35%'
   path_compressed: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_1-min.png'
   alt: 
   description: 

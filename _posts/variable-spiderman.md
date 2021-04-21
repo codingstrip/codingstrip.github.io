@@ -1,0 +1,29 @@
+---
+layout: 2020_default
+concept: variable
+title: Spiderman
+<!-- permalink: /codingstrip/variable-spiderman -->
+---
+
+<section id="publications">
+	<h1 class="divider">Publications</h1>
+	{% for publication in site.data.twenty_20.publications %}
+	<section class="publication-row">
+		<img class="publication-image" src="{{publication.path_compressed}}" alt="">
+		<div>
+			{% if publication.link %}<a href="{{ publication.link }}" target="_blank"><h1 class="publication-title">{{ publication.title }}</h1></a>
+			{% else %}
+			<h1 class="publication-title">{{ publication.title }}</h1>
+			{% endif %}
+			<span class="publication-authors">{% for author in publication.authors %}{% if forloop.last %}{{ author }}.{% else %}{{ author }}, {% endif %}{% endfor %} {{ publication.conference }}, {{ publication.year }} {% if publication.link %}<br>[<a href="{{publication.link}}" target="_blank">paper</a>]{% endif %}{% if publication.post %} [<a href="{{publication.post}}" target="_blank">article</a>]{% endif %}{% if publication.slides %} [<a href="{{publication.slides}}" target="_blank">slides</a>]{% endif %}</span>
+		</div>
+	</section>
+	<hr size="30" width="70%" noshade>
+	{% endfor %}
+</section>
+<script>
+	$(document).ready(function() {
+		$('.page-scroll.active').removeClass('active');
+		$('#publications-tab').addClass('active');	
+	});		
+</script>
