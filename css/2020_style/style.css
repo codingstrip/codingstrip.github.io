@@ -985,6 +985,7 @@ figure > img {
     padding: 20px;
     align-self: center;
     align-items: flex-end;
+    color: black;
 }
 
 .coding-strip > figure {
