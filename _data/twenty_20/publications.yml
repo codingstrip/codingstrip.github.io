@@ -1,3 +1,18 @@
+- link: 'https://dl.acm.org/doi/10.1145/3408877.3439536'
+  path: '../images/6_paper/sigcse-codingtoon.png'
+  path_compressed: '../images/6_paper/sigcse-codingtoon.png'
+  slides: 'https://sanghosuh.github.io/codingtoon-sigse/'
+  demo: 'https://codingstrip.github.io/create'
+  alt: 
+  description: 
+  width: 
+  height: 
+  title: "CodingToon: Using Authoring Tool to Create Concept-driven Comics for Programming Concepts"
+  year: "2021"
+  conference: Special Interest Group on Computer Science Education (SIGCSE)
+  authors: 
+    - Sangho Suh
+
 - link: 'https://sanghosuh.github.io/papers/comics_sigcse.pdf'
   path: '../images/6_paper/sigcse-use_cases.png'
   path_compressed: '../images/6_paper/sigcse-use_cases.png'
