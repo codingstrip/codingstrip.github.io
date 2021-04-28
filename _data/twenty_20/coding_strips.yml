@@ -39,7 +39,7 @@
       path_url: '../images/1_constructs/1_variable/Group_loop_(variable)-min.png'
       width: '75%'
       height: '75%'
-  path_compressed: '../images/1_constructs/1_variable/Group_loop_(variable)-min.png'
+  path_compressed: '../images/1_constructs/1_variable/variable-housing-min.png'
   path_combined: '../images/1_constructs/1_variable/variable-housing-min.png'
   alt: 
   description: 
@@ -125,7 +125,7 @@
       path_url: '../images/1_constructs/3_conditional/3-min.png'
       width: '85%'
       height: '85%'
-  path_compressed: '../images/1_constructs/3_conditional/3-min.png'
+  path_compressed: '../images/1_constructs/3_conditional/condition-pizza-min.png'
   path_combined: '../images/1_constructs/3_conditional/conditional-pizza-min.png'
   alt: 
   description: 
