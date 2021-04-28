@@ -64,7 +64,11 @@
       height: '40%'
   path_compressed: '../images/1_constructs/1_variable-assignment/C2B1-min.png'
   path_combined: '../images/1_constructs/1_variable-assignment/variable-piggybank-min.png'
-  code: 'piggyBank = 1;'
+  code: 'while not_full:<br><br>
+  &nbsp;&nbsp;if normal_day:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;piggyBank += 1<br><br>
+  &nbsp;&nbsp;elif icecream_day:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;piggyBank += 0.25'
   alt: 
   description: 
   width: 
@@ -159,11 +163,9 @@
   path_combined: '../images/1_constructs/4_counted_loop/loop-candies-min.png'
   code: 'joy = 0<br><br>if weekend:<br>
   &nbsp;&nbsp;candies = 3<br>else:<br>
-  &nbsp;&nbsp;#special occasion<br>
-  &nbsp;&nbsp;candies = 5<br><br>for candy in candies:<br>
-  &nbsp;&nbsp;joy++<br><br># have to share candy with sibling<br>for sibling in siblings:<br>
-  &nbsp;&nbsp;joy--<br><br>numOfCandy = joy
-  '
+  &nbsp;&nbsp;candies = 2<br><br>for candy in candies:<br>
+  &nbsp;&nbsp;joy++<br><br>for sibling in siblings:<br>
+  &nbsp;&nbsp;joy--<br>'
   alt: 
   description: 
   width: 
