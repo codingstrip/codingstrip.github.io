@@ -33,7 +33,6 @@
 	<br>
 	{% for strip in strips %}
 		{% if strip.id == page.id %}
-			<span style="color: gray">(NOTE: This is NOT the only way!)</span><br><br>
 			{% if strip.code %}<pre id="code" class="code-panel">{{strip.code}}</pre><br>
 			<button id="button">Copy code</button><br>
 			{% endif %}
@@ -59,6 +58,7 @@
 	  document.body.append(textArea);
 	  textArea.select();
 	  document.execCommand("copy");
+	  textArea.remove();
 	}
 
 	document.getElementById('button').addEventListener('click', copyFunction);
