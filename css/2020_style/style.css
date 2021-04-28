@@ -1759,3 +1759,8 @@ a:hover {
 .combined_images {
     width: 100%;    
 }
+
+.code-panel {
+    text-align: left;
+    display: inline-flex;
+}

@@ -21,7 +21,7 @@
       height: '85%'
   path_compressed: '../images/1_constructs/1_variable/peter_parker/1-min.png'
   path_combined: '../images/1_constructs/1_variable/peter_parker/variable-spiderman-min.png'
-  code: ''
+  code: 'let name = "Peter Parker";<br>let age = 1;<br>let hobby = "sleeping"<br>...<br>age = 14;<br>hobby = ["Skateboard", "Play with dogs"]<br>...'
   alt: 
   description: 
   width: 
@@ -64,6 +64,7 @@
       height: '40%'
   path_compressed: '../images/1_constructs/1_variable-assignment/C2B1-min.png'
   path_combined: '../images/1_constructs/1_variable-assignment/variable-piggybank-min.png'
+  code: 'piggyBank = 1;'
   alt: 
   description: 
   width: 
@@ -108,6 +109,12 @@
 
   path_compressed: '../images/1_constructs/2_boolean/1.4-min.png'
   path_combined: '../images/1_constructs/2_boolean/boolean-boblean-min.png'
+  code: 'if (time >= 9:30 pm) {<br>
+    &nbsp;&nbsp;if (Bob.asleep == True) {<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;studyNextDay();<br>
+    &nbsp;&nbsp;} else if (Bob.asleep == False) {<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;notStudyNextDay();<br>
+    &nbsp;&nbsp;}<br>}'
   alt: 
   description: 
   width: 
@@ -127,6 +134,10 @@
       height: '85%'
   path_compressed: '../images/1_constructs/3_conditional/condition-pizza-min.png'
   path_combined: '../images/1_constructs/3_conditional/conditional-pizza-min.png'
+  code: 
+    'if Scooter.remembersNumber():<br>
+    &nbsp;&nbsp;pizza.Deliver();<br>else:<br>
+    &nbsp;&nbsp;wait();'
   alt: 
   description: 
   width: 
@@ -146,6 +157,13 @@
       height: '90%'
   path_compressed: '../images/1_constructs/4_counted_loop/2-min.png'
   path_combined: '../images/1_constructs/4_counted_loop/loop-candies-min.png'
+  code: 'joy = 0<br><br>if weekend:<br>
+  &nbsp;&nbsp;candies = 3<br>else:<br>
+  &nbsp;&nbsp;#special occasion<br>
+  &nbsp;&nbsp;candies = 5<br><br>for candy in candies:<br>
+  &nbsp;&nbsp;joy++<br><br># have to share candy with sibling<br>for sibling in siblings:<br>
+  &nbsp;&nbsp;joy--<br><br>numOfCandy = joy
+  '
   alt: 
   description: 
   width: 
@@ -169,6 +187,8 @@
       height: '55%'
   path_compressed: '../images/1_constructs/4_counted_loop/Moments-min.png'
   path_combined: '../images/1_constructs/4_counted_loop/counted_loop-crunch.png'
+  code: 'for (let day = 1; day <= 100; day++) {<br>
+   &nbsp;&nbsp;eat(captain_crunch);<br>}'
   alt: 
   description: 
   width: 
@@ -212,6 +232,9 @@
       height: '35%'
   path_compressed: '../images/1_constructs/6_function/1.1-min.png'
   path_combined: '../images/1_constructs/6_function/function-snapchat-min.png'
+  code: 'boolean wifi = false;<br><br>while (!wifi) {<br>
+    &nbsp;&nbsp;move();<br>
+    &nbsp;&nbsp;wifi = connectToWifi();<br>}<br><br>sendSnap();'
   alt: 
   description: 
   width: 
@@ -231,6 +254,12 @@
       height: '90%'
   path_compressed: '../images/2_data_structure/1_array/frog-jump-min.jpg'
   path_combined: '../images/2_data_structure/1_array/array-frog-min.png'
+  code: 'i = 0;<br><br>String[] lilypad = ["purple", "purple", "purple", "rock", "red"];<br><br>while (lilypad[i] !== "red") {<br>
+    &nbsp;&nbsp;if (lilypad[i] === "rock") {<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;frog.confused();<br>
+    &nbsp;&nbsp;}<br>
+      &nbsp;&nbsp;frog.jump();<br>
+    &nbsp;&nbsp;i++;<br>}'
   alt: 
   description: 
   width: 
@@ -377,6 +406,13 @@
       height: '35%'
   path_compressed: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_1-min.png'
   path_combined: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/recursion-bonus-min.png'
+  code: 'def my_bonus(service_year):<br>
+  &nbsp;&nbsp;if service_year == 0:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;return 0<br>
+  &nbsp;&nbsp;if service_year == 1:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;return 1<br>
+  &nbsp;&nbsp;else:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;return my_bonus(service_year - 1) + my_bonus(service_year - 2)<br><br>my_bonus(4)'
   alt: 
   description: 
   width: 
@@ -408,6 +444,16 @@
       height: '70%'
   path_compressed: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/4.1-min.png'
   path_combined: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/recursion-cleaning-min.png'
+  code: 'divideWork(numOfStudents, area) {<br>
+  &nbsp;&nbsp;if (numOfStudents <= 1) {<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;clean();<br>
+  &nbsp;&nbsp;}<br>
+  &nbsp;&nbsp;else {<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;students = numOfStudents / 2;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;area = area / 2;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;divideWork (students, area);<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;divideWork(numOfStudents - students, area);<br>
+  &nbsp;&nbsp;}<br>}'
   alt: 
   description: 
   width: 
@@ -475,10 +521,15 @@
       height: '35%'
   path_compressed: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_1-min.png'
   path_combined: '../images/4_problem_solving_technique/3_recursion/recursion-concert/recursion-concert-min.png'
+  code: 'def how_many_in_front (num):<br>
+  &nbsp;&nbsp;if num == 0:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;return 0;<br>
+  &nbsp;&nbsp;else:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;return 1 + how_many_in_front (num - 1);<br><br>how_many_in_front(4);'
   alt: 
   description: 
   width: 
-  height:     
+    height:     
   id: recursion-concert
   link: /codingstrips/recursion-concert
   title: Concert
