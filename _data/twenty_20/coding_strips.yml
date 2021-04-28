@@ -20,6 +20,8 @@
       width: '85%'
       height: '85%'
   path_compressed: '../images/1_constructs/1_variable/peter_parker/1-min.png'
+  path_combined: '../images/1_constructs/1_variable/peter_parker/variable-spiderman-min.png'
+  code: ''
   alt: 
   description: 
   width: 
@@ -38,6 +40,7 @@
       width: '75%'
       height: '75%'
   path_compressed: '../images/1_constructs/1_variable/Group_loop_(variable)-min.png'
+  path_combined: '../images/1_constructs/1_variable/variable-housing-min.png'
   alt: 
   description: 
   width: 400
@@ -60,6 +63,7 @@
       width: '40%'
       height: '40%'
   path_compressed: '../images/1_constructs/1_variable-assignment/C2B1-min.png'
+  path_combined: '../images/1_constructs/1_variable-assignment/variable-piggybank-min.png'
   alt: 
   description: 
   width: 
@@ -103,6 +107,7 @@
       height: '30%'
 
   path_compressed: '../images/1_constructs/2_boolean/1.4-min.png'
+  path_combined: '../images/1_constructs/2_boolean/boolean-boblean-min.png'
   alt: 
   description: 
   width: 
@@ -121,6 +126,7 @@
       width: '85%'
       height: '85%'
   path_compressed: '../images/1_constructs/3_conditional/3-min.png'
+  path_combined: '../images/1_constructs/3_conditional/conditional-pizza-min.png'
   alt: 
   description: 
   width: 
@@ -139,6 +145,7 @@
       width: '90%'
       height: '90%'
   path_compressed: '../images/1_constructs/4_counted_loop/2-min.png'
+  path_combined: '../images/1_constructs/4_counted_loop/loop-candies-min.png'
   alt: 
   description: 
   width: 
@@ -146,7 +153,7 @@
   title: Candies
   id: loop-candies
   link: /codingstrips/loop-candies
-  concept: for loop
+  concept: conditional
   authors: 
     - Workshop Participants
     - Bernadette Cheng
@@ -161,6 +168,7 @@
       width: '55%'
       height: '55%'
   path_compressed: '../images/1_constructs/4_counted_loop/Moments-min.png'
+  path_combined: '../images/1_constructs/4_counted_loop/counted_loop-crunch.png'
   alt: 
   description: 
   width: 
@@ -203,6 +211,7 @@
       width: '35%'
       height: '35%'
   path_compressed: '../images/1_constructs/6_function/1.1-min.png'
+  path_combined: '../images/1_constructs/6_function/function-snapchat-min.png'
   alt: 
   description: 
   width: 
@@ -221,6 +230,7 @@
       width: '90%'
       height: '90%'
   path_compressed: '../images/2_data_structure/1_array/frog-jump-min.jpg'
+  path_combined: '../images/2_data_structure/1_array/array-frog-min.png'
   alt: 
   description: 
   width: 
@@ -246,6 +256,7 @@
       width: '90%'
       height: '90%'
   path_compressed: '../images/2_data_structure/2_linked_list/Zoom-min.png'
+  path_combined: '../images/2_data_structure/2_linked_list/linked_list-vertical-min.png'
   alt: 
   description: 
   width: 
@@ -263,6 +274,7 @@
       width: '85%'
       height: '85%'
   path_compressed: '../images/2_data_structure/4_stack/stack-min.jpg'
+  path_combined: '../images/2_data_structure/4_stack/stack-plates-min.png'
   alt: 
   description: 
   width: 300
@@ -280,6 +292,7 @@
       width: '90%'
       height: '90%'
   path_compressed: '../images/3_algorithm/3_merge_sort/merge_sort-min.jpg'
+  path_combined: '../images/3_algorithm/3_merge_sort/merge_sort-house-min.png' 
   alt: 
   description: 
   width: 300
@@ -297,6 +310,7 @@
       width: '85%'
       height: '85%'
   path_compressed: '../images/3_algorithm/4_bubble_sort/bubble_sort-min.jpg'
+  path_combined: '../images/3_algorithm/4_bubble_sort/bubble_sort-height-min.png'
   alt: 
   description: 
   width: 300
@@ -362,6 +376,7 @@
       width: '35%'
       height: '35%'
   path_compressed: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/comic_1-min.png'
+  path_combined: '../images/4_problem_solving_technique/3_recursion/recursion-bonus/recursion-bonus-min.png'
   alt: 
   description: 
   width: 
@@ -392,6 +407,7 @@
       width: '70%'
       height: '70%'
   path_compressed: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/4.1-min.png'
+  path_combined: '../images/4_problem_solving_technique/3_recursion/recursion-cleaning/recursion-cleaning-min.png'
   alt: 
   description: 
   width: 
@@ -458,6 +474,7 @@
       width: '35%'
       height: '35%'
   path_compressed: '../images/4_problem_solving_technique/3_recursion/recursion-concert/comic_1-min.png'
+  path_combined: '../images/4_problem_solving_technique/3_recursion/recursion-concert/recursion-concert-min.png'
   alt: 
   description: 
   width: 

@@ -1755,3 +1755,7 @@ a:hover {
         width:1100px !important;
     }
 }
+
+.combined_images {
+    width: 100%;    
+}

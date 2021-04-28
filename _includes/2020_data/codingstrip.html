@@ -20,9 +20,13 @@
 	<section class="codingstrip">
 		{% for strip in strips %}
 		{% if strip.id == page.id %}
-		{% for each in strip.path %}
-		<img src="{{each.path_url}}" width="{{each.width}}" height="{{ each.height }}" style="object-fit:contain" alt="">
-		{% endfor %}
+		{% if strip.path_combined %}
+			<img src="{{strip.path_combined}}"  width="100%" height="100%" class="combined_images" style="object-fit:contain" alt="">
+		{% else %}
+			{% for each in strip.path %}
+			<img src="{{each.path_url}}" width="{{each.width}}" height="{{ each.height }}" style="object-fit:contain" alt="">
+			{% endfor %}		
+		{% endif %}
 		{% endif %}
 		{% endfor %}
 	</section>
