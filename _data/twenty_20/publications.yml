@@ -1,3 +1,17 @@
+- link: 'https://sanghosuh.github.io/assets/pdf/codetoon_iui.pdf'
+  path: '../images/6_paper/sigcse-codingtoon.png'
+  path_compressed: '../images/6_paper/codetoon_interface.png'
+  alt: 
+  description: 
+  width: 
+  height: 
+  title: "Leveraging Generative Conversational AI to Develop a Creative Learning Environment for Computational Thinking"
+  year: "2022"
+  conference: ACM Conference on Intelligent User Interfaces (IUI)
+  authors: 
+    - Sangho Suh
+    - Pengcheng An
+
 - link: 'https://dl.acm.org/doi/10.1145/3408877.3439536'
   path: '../images/6_paper/sigcse-codingtoon.png'
   path_compressed: '../images/6_paper/sigcse-codingtoon.png'
