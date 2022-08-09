@@ -1,3 +1,17 @@
+- path: '../images/6_paper/code-driven_storytelling.png'
+  path_compressed: '../images/6_paper/code-driven_storytelling.png'
+  alt: 
+  description: 
+  width: 
+  height: 
+  title: "CodeToon: Story Ideation, Auto Comic Generation, and Structure Mapping for Code-Driven Storytelling"
+  year: "2022"
+  conference: ACM Symposium on User Interface Software and Technology (UIST)
+  authors: 
+    - Sangho Suh
+    - Jian Zhao
+    - Edith Law
+
 - link: 'https://sanghosuh.github.io/assets/pdf/codetoon_iui.pdf'
   path: '../images/6_paper/sigcse-codingtoon.png'
   path_compressed: '../images/6_paper/codetoon_interface.png'
