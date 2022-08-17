@@ -22,6 +22,23 @@ permalink: /design
 			<p>This is a design board that was used during our design workshops to guide workshop participants through the stages in the design process. You can download a print version of this design board <a href="../images/7_design_tools/design_board.png" download>here</a>.</p>
 			<img src="../images/7_design_tools/design_board.png" alt="">
 		</div>
+
+		<hr size="30" width="100%" noshade>
+		<h1>Publication</h1>
+
+		<span style="font-size: 1.3em">Suh, Sangho, Martinet Lee, Gracie Xia, and Edith Law. "Coding strip: A pedagogical tool for teaching and learning programming concepts through comics." In 2020 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC), pp. 1-10. IEEE, 2020.</span>
+
+		<div style="display: flex; flex-direction: row; align-items: baseline">
+		    <h3 style="font-size: 20px; font-weight: 700; font-size: 18px; line-height: 1.4em; margin-bottom: 1em; margin-top: 2em;">Cite this work</h3> <img title="Copy" style="width:25px; height: 25px; cursor:grab; margin-left:5px" onclick="copy()" src="/images/icons8-copy.png">
+		</div>
+		<div class="citation" style="overflow-x: auto;">
+<code style="white-space: pre;">@inproceedings{suh2020coding, 
+title={Coding strip: A pedagogical tool for teaching and learning programming concepts through comics}, 
+author={Suh, Sangho and Lee, Martinet and Xia, Gracie and others}, 
+booktitle={2020 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)}, 
+pages={1--10},year={2020}, organization={IEEE}}</code>
+		</div>
+		
 	</section>
 
 	<section id="ideation-cards">
@@ -67,7 +84,7 @@ permalink: /design
 	</section>
 
 	<section class="description-section">
-		<hr size="30" width="100%" noshade>
+
 		<h1>Acknowledgement</h1>
 		<ul>
 			<li>Icons in trigger & scenario cards are from <a href="https://icons8.com/" target="_blank">icons8</a></li>
@@ -80,4 +97,9 @@ permalink: /design
 			$('.page-scroll.active').removeClass('active');
 			$('#design-tab').addClass('active');	
 		});	
+		function copy() {
+	        let text = document.getElementsByClassName('citation')[0].childNodes[1].innerText;
+	        navigator.clipboard.writeText(text);
+	        alert("copied to clipboard");
+    	}
 	</script>
