@@ -97,9 +97,15 @@ pages={1--10},year={2020}, organization={IEEE}}</code>
 			$('.page-scroll.active').removeClass('active');
 			$('#design-tab').addClass('active');	
 		});	
-		function copy() {
+
+	    function copy() {
 	        let text = document.getElementsByClassName('citation')[0].childNodes[1].innerText;
-	        navigator.clipboard.writeText(text);
-	        alert("copied to clipboard");
-    	}
+	        navigator.clipboard.writeText(text).then(() => {
+	        alert("successfully copied");
+	        })
+	        .catch(() => {
+	          alert("something went wrong");
+	        });
+	    }
+
 	</script>
