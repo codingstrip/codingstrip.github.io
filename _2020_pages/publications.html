@@ -13,7 +13,7 @@ permalink: /publications
 			{% else %}
 			<h1 class="publication-title">{{ publication.title }}</h1>
 			{% endif %}
-			<span class="publication-authors">{% for author in publication.authors %}{% if forloop.last %}{{ author }}.{% else %}{{ author }}, {% endif %}{% endfor %} {{ publication.conference }}, {{ publication.year }} {% if publication.link %}<br>[<a href="{{publication.link}}" target="_blank">paper</a>]{% endif %}{% if publication.post %} [<a href="{{publication.post}}" target="_blank">article</a>]{% endif %}{% if publication.slides %} [<a href="{{publication.slides}}" target="_blank">slides</a>]{% endif %}{% if publication.demo %} [<a href="{{publication.demo}}" target="_blank">demo</a>]{% endif %}</span>
+			<span class="publication-authors">{% for author in publication.authors %}{% if forloop.last %}{{ author }}.{% else %}{{ author }}, {% endif %}{% endfor %} {{ publication.conference }}, {{ publication.year }} {% if publication.link %}<br>[<a href="{{publication.link}}" target="_blank">paper</a>]{% endif %}{% if publication.post %} [<a href="{{publication.post}}" target="_blank">article</a>]{% endif %}{% if publication.talk %} [<a href="{{publication.talk}}" target="_blank">talk</a>]{% endif %}{% if publication.tool %} [<a href="{{publication.tool}}" target="_blank">tool</a>]{% endif %}{% if publication.slides %} [<a href="{{publication.slides}}" target="_blank">slides</a>]{% endif %}{% if publication.demo %} [<a href="{{publication.demo}}" target="_blank">demo</a>]{% endif %}</span>
 		</div>
 	</section>
 	<hr size="30" width="70%" noshade>
