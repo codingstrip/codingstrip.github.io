@@ -1,0 +1,46 @@
+---
+layout: 2020_default
+permalink: /use
+---
+
+	<script>
+		$(function () {
+			$('[data-toggle="popover"]').popover()
+		})
+	</script>
+
+	<section id="design-process">
+		<div class="design-process-container">
+			<img src="../images/0_reference-guide/page1.png" alt="">
+		</div>
+		<div id="design-tools-container">
+			<img src="../images/0_reference-guide/page2.png" alt="">
+		</div>
+		<div id="design-tools-container">
+			<img src="../images/0_reference-guide/page3.png" alt="">
+		</div>
+		<div id="design-tools-container">
+			<img src="../images/0_reference-guide/page4.png" alt="">
+		</div>
+		<div id="design-tools-container">
+			<img src="../images/0_reference-guide/page5.png" alt="">
+		</div>
+	</section>
+
+	<script>
+		$(document).ready(function() {
+			$('.page-scroll.active').removeClass('active');
+			$('#use-tab').addClass('active');	
+		});	
+
+	    function copy() {
+	        let text = document.getElementsByClassName('citation')[0].childNodes[1].innerText;
+	        navigator.clipboard.writeText(text).then(() => {
+	        alert("successfully copied");
+	        })
+	        .catch(() => {
+	          alert("something went wrong");
+	        });
+	    }
+
+	</script>
