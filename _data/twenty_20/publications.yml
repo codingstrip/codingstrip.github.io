@@ -1,3 +1,33 @@
+- path: '../images/6_paper/sigcse2023-reference-guide-1.png'
+  path_compressed: '../images/6_paper/sigcse2023-reference-guide-1.png'
+  alt: 
+  description: 
+  width: 
+  height: 
+  title: "Reference Guide for Teaching Programming with Comics"
+  year: "2023"
+  conference: Special Interest Group on Computer Science Education (SIGCSE)
+  authors:
+    - Sangho Suh
+
+- path: '../images/6_paper/sigcse2023-toolkit-1.png'
+  path_compressed: '../images/6_paper/sigcse2023-toolkit-1.png'
+  alt: 
+  description: 
+  width: 
+  height: 
+  title: "Developing Comic-based Learning Toolkits for Teaching Computing to Elementary School Learners"
+  year: "2023"
+  link: 'https://osf.io/283eg'
+  poster: 'https://osf.io/v4n5c'
+  conference: Special Interest Group on Computer Science Education (SIGCSE)
+  authors: 
+    - Francisco Castro
+    - Sangho Suh
+    - Jane E
+    - Weena Naowaprateep
+    - Yang Shi
+
 - path: '../images/6_paper/code-driven_storytelling.png'
   path_compressed: '../images/6_paper/code-driven_storytelling.png'
   alt: 
