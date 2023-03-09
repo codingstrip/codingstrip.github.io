@@ -18,7 +18,7 @@
   height: 
   title: "Developing Comic-based Learning Toolkits for Teaching Computing to Elementary School Learners"
   year: "2023"
-  link: 'https://osf.io/283eg'
+  doi: 'https://osf.io/283eg'
   poster: 'https://osf.io/v4n5c'
   conference: Special Interest Group on Computer Science Education (SIGCSE)
   authors: 
@@ -36,8 +36,9 @@
   height: 
   title: "CodeToon: Story Ideation, Auto Comic Generation, and Structure Mapping for Code-Driven Storytelling"
   year: "2022"
-  demo: https://youtu.be/0KgUaCyE3tY
-  link: 'https://sanghosuh.github.io/papers/codetoon_uist.pdf'
+  demo: "https://youtu.be/Q2R_cIohi8g"
+  pdf: 'https://sanghosuh.github.io/papers/codetoon_uist.pdf'
+  doi: "https://dl.acm.org/doi/10.1145/3526113.3545617"
   conference: ACM Symposium on User Interface Software and Technology (UIST)
   talk: 'https://youtu.be/VkC54ZNO_HU?t=8779'
   authors: 
@@ -45,7 +46,8 @@
     - Jian Zhao
     - Edith Law
 
-- link: 'https://sanghosuh.github.io/assets/pdf/codetoon_iui.pdf'
+- doi: 'https://dl.acm.org/doi/10.1145/3490100.3516473'
+  pdf: 'https://sanghosuh.github.io/assets/pdf/codetoon_iui.pdf'
   path: '../images/6_paper/sigcse-codingtoon.png'
   path_compressed: '../images/6_paper/codetoon_interface.png'
   alt: 
@@ -60,10 +62,27 @@
     - Sangho Suh
     - Pengcheng An
 
-- link: 'https://dl.acm.org/doi/10.1145/3408877.3439536'
+- doi: 'https://dl.acm.org/doi/10.1145/3532106.3533557'
+  path: '../images/6_paper/privacytoon_dis.png'
+  path_compressed: '../images/6_paper/privacytoon_dis.png'
+  tool: 'https://codingstrip.github.io/create'
+  alt: 
+  description: 
+  width: 
+  height: 
+  title: "PrivacyToon: Concept-driven Storytelling with Creativity Support for Privacy Comics"
+  year: "2021"
+  conference: Special Interest Group on Computer Science Education (SIGCSE)
+  authors: 
+    - Sangho Suh
+    - Sydney Lamorea
+    - Edith Law
+    - Leah Zhang-Kennedy
+
+- doi: 'https://dl.acm.org/doi/10.1145/3408877.3439536'
   path: '../images/6_paper/sigcse-codingtoon.png'
   path_compressed: '../images/6_paper/sigcse-codingtoon.png'
-  slides: 'https://sanghosuh.github.io/codingtoon-sigse/'
+  slides: 'https://sanghosuh.github.io/codingtoon-sigcse/'
   tool: 'https://codingstrip.github.io/create'
   alt: 
   description: 
@@ -75,7 +94,8 @@
   authors: 
     - Sangho Suh
 
-- link: 'https://sanghosuh.github.io/papers/comics_sigcse.pdf'
+- doi: 'https://dl.acm.org/doi/10.1145/3408877.3432465'
+  pdf: 'https://sanghosuh.github.io/papers/comics_sigcse.pdf'
   path: '../images/6_paper/sigcse-use_cases.png'
   path_compressed: '../images/6_paper/sigcse-use_cases.png'
   slides: 'https://sanghosuh.github.io/papers/comics_sigcse_slides.pdf'
@@ -93,7 +113,8 @@
     - Bernadette Cheng    
     - Edith Law
 
-- link: 'https://sanghosuh.github.io/papers/codingstrip_vlhcc.pdf'
+- doi: 'https://doi.org/10.1109/VL/HCC50065.2020.9127262'
+  pdf: 'https://sanghosuh.github.io/papers/codingstrip_vlhcc.pdf'
   path: '../images/6_paper/vlhcc-coding_strip.png'
   path_compressed: '../images/6_paper/vlhcc-coding_strip-min.png'
   alt: 
@@ -111,7 +132,7 @@
     - Gracie Xia
     - Edith Law
 
-- link: 'https://sanghosuh.github.io/papers/abstraction_vlhcc.pdf'
+- pdf: 'https://sanghosuh.github.io/papers/abstraction_vlhcc.pdf'
   path: '../images/6_paper/vlhcc-abstraction_ladder.png'
   path_compressed: '../images/6_paper/vlhcc-abstraction_ladder-min-min.png'
   alt: 
@@ -124,7 +145,7 @@
   authors: 
     - Sangho Suh
 
-- link: 'https://sanghosuh.github.io/papers/concreteness_icer.pdf'
+- pdf: 'https://sanghosuh.github.io/papers/concreteness_icer.pdf'
   path: '../images/6_paper/icer-concreteness_fading.png'
   path_compressed: '../images/6_paper/icer-concreteness_fading-min.png'
   alt: 
