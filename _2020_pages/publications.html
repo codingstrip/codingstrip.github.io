@@ -9,11 +9,11 @@ permalink: /publications
 	<section class="publication-row">
 		<img class="publication-image" src="{{publication.path_compressed}}" alt="">
 		<div>
-			{% if publication.link %}<a href="{{ publication.link }}" target="_blank"><h1 class="publication-title">{{ publication.title }}</h1></a>
+			{% if publication.doi %}<a href="{{ publication.doi }}" target="_blank"><h1 class="publication-title">{{ publication.title }}</h1></a>
 			{% else %}
 			<h1 class="publication-title">{{ publication.title }}</h1>
 			{% endif %}
-			<span class="publication-authors">{% for author in publication.authors %}{% if forloop.last %}{{ author }}.{% else %}{{ author }}, {% endif %}{% endfor %} {{ publication.conference }}, {{ publication.year }} {% if publication.link %}<br>[<a href="{{publication.link}}" target="_blank">paper</a>]{% endif %}{% if publication.post %} [<a href="{{publication.post}}" target="_blank">article</a>]{% endif %}{% if publication.poster %} [<a href="{{publication.poster}}" target="_blank">poster</a>]{% endif %}{% if publication.talk %} [<a href="{{publication.talk}}" target="_blank">talk</a>]{% endif %}{% if publication.tool %} [<a href="{{publication.tool}}" target="_blank">tool</a>]{% endif %}{% if publication.slides %} [<a href="{{publication.slides}}" target="_blank">slides</a>]{% endif %}{% if publication.demo %} [<a href="{{publication.demo}}" target="_blank">demo</a>]{% endif %}</span>
+			<span class="publication-authors">{% for author in publication.authors %}{% if forloop.last %}{{ author }}.{% else %}{{ author }}, {% endif %}{% endfor %} {{ publication.conference }}, {{ publication.year }} {% if publication.doi %}<br>[<a href="{{publication.doi}}" target="_blank">DOI</a>]{% endif %} {% if publication.pdf %}[<a href="{{publication.pdf}}" target="_blank">PDF</a>]{% endif %}{% if publication.post %} [<a href="{{publication.post}}" target="_blank">article</a>]{% endif %}{% if publication.poster %} [<a href="{{publication.poster}}" target="_blank">poster</a>]{% endif %}{% if publication.talk %} [<a href="{{publication.talk}}" target="_blank">talk</a>]{% endif %}{% if publication.tool %} [<a href="{{publication.tool}}" target="_blank">tool</a>]{% endif %}{% if publication.slides %} [<a href="{{publication.slides}}" target="_blank">slides</a>]{% endif %}{% if publication.demo %} [<a href="{{publication.demo}}" target="_blank">demo</a>]{% endif %}</span>
 		</div>
 	</section>
 	<hr size="30" width="70%" noshade>
