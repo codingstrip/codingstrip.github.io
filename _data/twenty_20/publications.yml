@@ -38,6 +38,7 @@
   year: "2022"
   demo: "https://youtu.be/Q2R_cIohi8g"
   pdf: 'https://sanghosuh.github.io/papers/codetoon_uist.pdf'
+  tool: 'https://codetoon.uwaterloo.ca/'
   doi: "https://dl.acm.org/doi/10.1145/3526113.3545617"
   conference: ACM Symposium on User Interface Software and Technology (UIST)
   talk: 'https://youtu.be/VkC54ZNO_HU?t=8779'
@@ -63,6 +64,7 @@
     - Pengcheng An
 
 - doi: 'https://dl.acm.org/doi/10.1145/3532106.3533557'
+  pdf: 'https://sanghosuh.github.io/papers/privacytoon.pdf'
   path: '../images/6_paper/privacytoon_dis.png'
   path_compressed: '../images/6_paper/privacytoon_dis.png'
   tool: 'https://codingstrip.github.io/create'
